@@ -3,10 +3,10 @@
 # 👋 Hi, I'm Sadeen Abdelalrahman
 
 ### 🎓 Artificial Intelligence Student  
-### 💻 AI & Data Science Enthusiast  
-### 🚀 Passionate About Building Smart Solutions  
+### 💻 AI Student | Data Analysis & Machine Learning Learner  
+### 🚀 Passionate  NLP ,ML,NNS,CV
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Python+%26+Java+Developer;Data+Analysis+Learner;Machine+Learning+Explorer;Microsoft+Azure+AI+Certified&center=true&width=650&height=45">
 
 </div>
 
@@ -15,22 +15,30 @@
 # 💫 About Me
 
 - 🎓 Studying Artificial Intelligence  
-- 💡 Interested in AI, Machine Learning, NLP, and Computer Vision  
-- 🧠 Love solving problems using programming and data  
-- 📚 Always learning new technologies and improving my skills  
+- 💡 Interested in AI, Machine Learning, NLP, and Data Analysis  
+- 🧠 Passionate about learning new technologies and building projects  
+- 🚀 Improving my skills in Python, Java, SQL, and AI applications  
+
+---
+
+# 🏆 Certifications
+
+![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft&logoColor=white)
+
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ---
 
 # 🚀 Projects
 
 ## 💊 Pharmacy Management System
-Java-based system for managing medicines, customers, and pharmacy operations.
+A Java-based pharmacy management system for managing medicines, customers, and sales operations.
 
 ## 📰 News Classification using NLP
 Machine Learning & NLP project for classifying news articles into categories.
 
 ## 🧹 Data Cleaning & Preprocessing
-Working with datasets, handling missing values, cleaning data, and preparing it for analysis.
+Projects focused on cleaning datasets, handling missing values, and preparing data for analysis and Machine Learning.
 
 ---
 
@@ -53,9 +61,10 @@ Working with datasets, handling missing values, cleaning data, and preparing it 
 
 # 📚 Currently Learning
 
-- Deep Learning  
+- Machine Learning Fundamentals  
+- Data Analysis  
 - Computer Vision  
-- Neural Networks  
+- Deep Learning Basics  
 - AI Projects with Python  
 
 ---
@@ -70,6 +79,10 @@ Working with datasets, handling missing values, cleaning data, and preparing it 
 
 </div>
 
+---
+ 
+
+ 
 ---
 
 <div align="center">
