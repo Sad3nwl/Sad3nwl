@@ -1,70 +1,79 @@
-```markdown id="w9d2ka"
-# Hi there, I'm Sadeen Abdelalrahman 👋
+<div align="center">
 
-🎓 Artificial Intelligence Student  
-💻 Passionate about Programming, Data Science, and AI  
-🚀 Always learning and building new projects  
+# 👋 Hi, I'm Sadeen Abdelalrahman
 
----
+### 🎓 Artificial Intelligence Student  
+### 💻 AI & Data Science Enthusiast  
+### 🚀 Passionate About Building Smart Solutions  
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner&center=true&width=500&height=45">
 
-I'm **Sadeen Abdelalrahman**, an Artificial Intelligence student who enjoys solving problems and creating smart applications.  
-I have experience in programming, databases, and software development, and I’m constantly improving my technical skills through projects and learning.
+</div>
 
 ---
 
-## 🛠️ Skills
+# 💫 About Me
 
-### Programming Languages
-- Python
-- Java
-- SQL
-
-### Fields of Interest
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Computer Vision
-- Natural Language Processing (NLP)
-
-### Tools & Technologies
-- Jupyter Notebook
-- Google Colab
-- VS Code
-- MySQL
-- SQL
+- 🎓 Studying Artificial Intelligence  
+- 💡 Interested in AI, Machine Learning, NLP, and Computer Vision  
+- 🧠 Love solving problems using programming and data  
+- 📚 Always learning new technologies and improving my skills  
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Projects
 
-- Deep Learning
-- Computer Vision
-- Neural Networks
-- AI Projects with Python
+## 💊 Pharmacy Management System
+Java-based system for managing medicines, customers, and pharmacy operations.
 
----
+## 📰 News Classification using NLP
+Machine Learning & NLP project for classifying news articles into categories.
 
-## 🚀 Projects
-
-### 💊 Pharmacy Management System
-A Java-based pharmacy management system for handling medicines, customers, and sales operations.
-
-### 📰 News Classification using NLP
-A Natural Language Processing project that classifies news articles into categories using Machine Learning techniques.
-
-### 🧹 Data Cleaning & Preprocessing
-Projects focused on cleaning, preprocessing, and preparing datasets for analysis and Machine Learning models.
+## 🧹 Data Cleaning & Preprocessing
+Working with datasets, handling missing values, cleaning data, and preparing it for analysis.
 
 ---
 
-## 📫 Connect With Me
+# 💻 Tech Stack
 
-- GitHub: your-github-link
-- LinkedIn: your-linkedin-link
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-⭐ *"Code, Learn, Build, Repeat."*
-```
+# 📚 Currently Learning
+
+- Deep Learning  
+- Computer Vision  
+- Neural Networks  
+- AI Projects with Python  
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Code • Learn • Build • Repeat ⭐
+
+</div>
