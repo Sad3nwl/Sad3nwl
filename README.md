@@ -6,7 +6,7 @@
 ### 💻 AI Student | Data Analysis & Machine Learning Learner  
 ### 🚀 Passionate  NLP ,ML,NNS,CV
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Python+%26+Java+Developer;Data+Analysis+Learner;Machine+Learning+Explorer;Microsoft+Azure+AI+Certified&center=true&width=650&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Python+%26+Developer;Data+Analysis+Learner;Machine+Learning+Explorer;Microsoft+Azure+AI+Certified&center=true&width=650&height=45">
 
 </div>
 
