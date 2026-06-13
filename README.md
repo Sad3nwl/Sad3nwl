@@ -6,7 +6,7 @@
 ### 💻 Data Analytics & Machine Learning Enthusiast
 ### 🚀 Passionate about NLP • Computer Vision • Deep Learning
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Python+%26+Java+Developer;Data+Analyst+%26+BI+Learner;Machine+Learning+Explorer;Microsoft+Azure+AI+Certified&center=true&width=650&height=45&color=3776AB">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Python+%26+Developer;Data+Analyst+%26+BI+Learner;Machine+Learning+Explorer;Microsoft+Azure+AI+Certified&center=true&width=650&height=45&color=3776AB">
 
 </div>
 
@@ -28,7 +28,6 @@
 ### 🛠️ Languages & Core Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&version=4" height="35"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/MATLAB-E16711?style=flat-square&logo=mathworks&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="35"/>
