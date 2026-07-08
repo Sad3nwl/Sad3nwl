@@ -55,11 +55,11 @@
 # 🚀 Highlighted Projects
 
 ### 🎬 Movie Rating Analysis System (Python)
-- A clean, object-oriented (OOP) program that ingests, cleanses, and isolates trending metrics from movie datasets[cite: 7].
-- Utilizes custom modular inheritance with Pandas and plots distributions using Matplotlib[cite: 7].
+- A clean, object-oriented (OOP) program that ingests, cleanses, and isolates trending metrics from movie datasets 
+- Utilizes custom modular inheritance with Pandas and plots distributions using Matplotlib 
 
 ### 💊 Pharmacy Management System (Java)
-- An encapsulated console system utilizing OOP concepts (Inheritance & Polymorphism) to track medical inventory, stock thresholds, and live patient scripts[cite: 1, 2, 3, 5, 6].
+- An encapsulated console system utilizing OOP concepts (Inheritance & Polymorphism) to track medical inventory, stock thresholds, and live patient scripts 
 
 ### 📰 News Classification using NLP (Python)
 - A Machine Learning workflow utilizing text preprocessing, tokenization, and vectorization to build predictive text classification models.
