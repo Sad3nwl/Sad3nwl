@@ -86,7 +86,6 @@
 
 - 📊 **Analytics & BI:** Microsoft Excel, Power BI
 - 🤖 **Machine Learning:** Scikit-learn, Advanced ML Algorithms, Deep Learning
-- 🛠️ **Tools & Languages:** Git, GitHub, R Programming
 
 ---
 
