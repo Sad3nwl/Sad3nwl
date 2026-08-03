@@ -18,7 +18,7 @@
 
 - 🎓 **Education:** Pursuing a Bachelor's degree in Artificial Intelligence at Al-Zaytoonah University of Jordan.
 - 💡 **Passions:** Programming, data analysis, and developing practical software solutions to solve real-world problems.
-- 🧠 **Focus:** Strengthening analytical and problem-solving skills while exploring state-of-the-art machine learning concepts.
+- 🧠 **Focus:** Strengthening analytical while exploring state-of-the-art machine learning concepts.
 - 🎯 **Goals:** Build impactful data projects, enhance software engineering practices, and contribute to open-source communities.
 
 ---
