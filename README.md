@@ -1,97 +1,134 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150"/>
+
 # 👋 Hi, I'm Sadeen Abdelalrahman
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNXVrdzIweThodGZ5NGEwcHB2ZzR4ZWt6MnpwaGRma2p2NHdyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vN5T7392GZf53YxY6k/giphy.gif" width="120"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=3776ABFF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+Artificial+Intelligence+Student;%F0%9F%92%BB+Aspiring+Data+Analyst;%F0%9F%A4%96+Machine+Learning+Enthusiast;%E2%98%81%EF%B8%8F+Microsoft+Azure+AI+Certified;%F0%9F%9A%80+Building+Practical+AI+Solutions" alt="Typing SVG" />
 
-### 🎓 Artificial Intelligence Student @ Al-Zaytoonah University of Jordan
-### 💻 Aspiring Data Analyst & Machine Learning Enthusiast
-### 🚀 Passionate about AI • Data Analytics • Software Development
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Microsoft+Azure+AI+Certified;Building+Practical+AI+Solutions&center=true&width=650&height=45&color=3776AB">
+![Profile Views](https://komarev.com/ghpvc/?username=sadeenabdelalrahman&color=3776AB&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/sadeenabdelalrahman?style=flat-square&color=3776AB)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 > *"Learning by building, improving through practice."*
 
-- 🎓 **Education:** Pursuing a Bachelor's degree in Artificial Intelligence at Al-Zaytoonah University of Jordan.
-- 💡 **Passions:** Programming, data analysis, and developing practical software solutions to solve real-world problems.
-- 🧠 **Focus:** Strengthening analytical skills while exploring state-of-the-art machine learning concepts.
-- 🎯 **Goals:** Build impactful data projects, enhance software engineering practices, and contribute to open-source communities.
+```yaml
+🎓 Education:   Bachelor's in Artificial Intelligence @ Al-Zaytoonah University of Jordan
+💡 Passions:    Programming • Data Analysis • Practical Software Solutions
+🧠 Focus:       Analytical thinking + state-of-the-art Machine Learning concepts
+🎯 Goals:       Impactful data projects • Strong engineering practices • Open source
+```
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 💻 Languages & Core Environments
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="35"/>
+**Languages & Core Environments**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="32"/>
 </p>
 
-### 📊 Data Analysis & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="35"/>
+**Data Analysis & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="32"/>
 </p>
 
 </div>
 
 ---
 
-# 💡 Areas of Interest
+## 💡 Areas of Interest
 
-| **Category** | **Focus Areas** |
-| :--- | :--- |
-| **Core Fields** | Data Analytics, Machine Learning, Artificial Intelligence |
-| **Specializations** | Natural Language Processing (NLP), Computer Vision |
-| **Engineering** | Software Development, Database Systems |
+<div align="center">
 
----
+| 🔬 Core Fields | 🎯 Specializations | ⚙️ Engineering |
+|:---:|:---:|:---:|
+| Data Analytics | Natural Language Processing (NLP) | Software Development |
+| Machine Learning | Computer Vision | Database Systems |
+| Artificial Intelligence | | |
 
-# 🏆 Certifications
-
-![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft&logoColor=white)
-- **Microsoft Certified:** Azure AI Fundamentals (AI-900)
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 Certifications
+
+<div align="center">
+
+[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎬 Movie Rating Analysis
-- Conducted full data cleansing, exploratory data analysis, and metric visualisations on movie datasets using **Python**, **Pandas**, and **Matplotlib**.
+Full data cleansing, exploratory data analysis, and metric visualisations on movie datasets using **Python**, **Pandas**, and **Matplotlib**.
+
+</td>
+<td width="50%" valign="top">
 
 ### 💊 Pharmacy Management System
-- Architected an object-oriented **Java** console application to streamline medicine inventory tracking, stock levels, and daily operations.
+Object-oriented **Java** console application to streamline medicine inventory tracking, stock levels, and daily operations.
 
-### 📰 News Classification using NLP
-- Engineered an end-to-end Machine Learning pipeline utilizing text preprocessing, tokenization, and vectorization techniques to categorize news articles.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 News Classification (NLP)
+End-to-end ML pipeline using text preprocessing, tokenization, and vectorization techniques to categorize news articles.
+
+</td>
+<td width="50%" valign="top">
 
 ### 📚 Library Management System
-- Developed an object-oriented CRUD application connected to a database to efficiently manage library records and user transactions.
+Object-oriented CRUD application connected to a database to manage library records and user transactions.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
-- 📊 **Analytics & BI:** Microsoft Excel, Power BI
-- 🤖 **Machine Learning:** Scikit-learn, Advanced ML Algorithms, Deep Learning
+<div align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="32"/>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -105,5 +142,7 @@
 <br><br>
 
 ### ⭐ Code • Analyze • Innovate • Repeat ⭐
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/EarthAnimated.gif" width="80">
 
 </div>
