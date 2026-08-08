@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Sadeen Abdelalrahman
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdiNXVrdzIweThodGZ5NGEwcHB2ZzR4ZWt6MnpwaGRma2p2NHdyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vN5T7392GZf53YxY6k/giphy.gif" width="120"/>
+
 ### 🎓 Artificial Intelligence Student @ Al-Zaytoonah University of Jordan
 ### 💻 Aspiring Data Analyst & Machine Learning Enthusiast
 ### 🚀 Passionate about AI • Data Analytics • Software Development
@@ -18,7 +20,7 @@
 
 - 🎓 **Education:** Pursuing a Bachelor's degree in Artificial Intelligence at Al-Zaytoonah University of Jordan.
 - 💡 **Passions:** Programming, data analysis, and developing practical software solutions to solve real-world problems.
-- 🧠 **Focus:** Strengthening analytical while exploring state-of-the-art machine learning concepts.
+- 🧠 **Focus:** Strengthening analytical skills while exploring state-of-the-art machine learning concepts.
 - 🎯 **Goals:** Build impactful data projects, enhance software engineering practices, and contribute to open-source communities.
 
 ---
