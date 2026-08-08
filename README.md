@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150"/>
+<img src="./assets/cute-cat-pixel.png" width="130"/>
 
 # 👋 Hi, I'm Sadeen Abdelalrahman
 
