@@ -1,92 +1,67 @@
 <div align="center">
 
-<!-- Hello Kitty Waving GIF -->
-<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/hello-kitty-wave.gif" width="150" alt="Hello Kitty Waving"/>
+<!-- Princess Bubblegum GIF -->
+<img src="https://media.tenor.com/On7kvXhzml4AAAAj/princess-bubblegum.gif" width="150" alt="Princess Bubblegum from Adventure Time"/>
 
-# 👋 Konnichiwa! I'm **Sadeen Abdelalrahman** 🎀
+# 👋 Hi, I'm **Sadeen Abdelalrahman**
 
-### 🎓 Artificial Intelligence Student @ Al-Zaytoonah University of Jordan  
-*(Teaching machines to think, while I pet my virtual cat.)*
-
-### 💻 Aspiring Data Analyst & Machine Learning Enthusiast  
-*(Turning messy data into cute, colorful, and highly accurate insights!)*
-
-### 🚀 Passionate about AI • Data Analytics • Software Development  
-*(Powered by coffee, curiosity, and a little bit of kawaii energy.)*
+### 🎓 Artificial Intelligence Student @ Al-Zaytoonah University of Jordan
+### 💻 Aspiring Data Analyst & Machine Learning Enthusiast
+### 🚀 Passionate about AI • Data Analytics • Software Development
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello+World+%26+Hello+Kitty!;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Microsoft+Azure+AI+Certified;Making+AI+Cute+%26+Powerful"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Microsoft+Azure+AI+Certified;Building+Practical+AI+Solutions"/>
 
 </div>
 
 ---
 
-## 💫 About Me  
+## 💫 About Me
 
-> *"Learning by building, debugging with a smile, and improving through practice (and maybe some snacks)."*
+> *"Learning by building, improving through practice, and turning complex data into clear insights."*
 
 🎓 **Education**  
-Pursuing a Bachelor's degree in Artificial Intelligence at Al-Zaytoonah University of Jordan. My brain runs on 50% Python, 30% matcha latte, and 20% wondering why my model's accuracy dropped.
+Pursuing a Bachelor's degree in Artificial Intelligence at Al-Zaytoonah University of Jordan, with a strong focus on practical applications of machine learning and data science.
 
 💡 **Passions**  
-Programming, finding hidden patterns in chaotic data, and building software solutions that make the world a little bit better (and a lot more organized).
+Programming, data analysis, and developing efficient software solutions to solve real-world problems.
 
 🧠 **Focus**  
-Strengthening analytical skills while exploring state-of-the-art machine learning concepts. Currently trying to teach my models to be as polite as Hello Kitty.
+Strengthening analytical skills while exploring state-of-the-art machine learning concepts and building robust data pipelines.
 
 🎯 **Goals**  
-Build impactful data projects, write clean code that future-me will thank me for, and contribute to open-source communities with positive vibes!
+Build impactful data projects, enhance software engineering practices, and contribute to open-source communities.
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
 
-### 💻 Languages & Database
+### 💻 Languages & Databases
 <div align="left">
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
 </a>
-*<sub>🐍 My favorite snake (the coding kind)</sub>*
-
 <a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
 </a>
-*<sub>☕ Write once, run everywhere (hopefully)</sub>*
-
+<a href="https://www.mathworks.com/products/matlab.html">
+  <img src="https://skillicons.dev/icons?i=matlab" width="55" alt="MATLAB"/>
+</a>
 <a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
 </a>
-*<sub>🗄️ Keeping my data neat and tidy</sub>*
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" height="32"/>
-*<sub>SELECT * FROM world WHERE vibe = 'kawaii'</sub>*
-
-</div>
-
-### 📊 Data Analysis & Libraries
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=pandas" width="55" alt="Pandas"/>
-*<sub>🐼 Actual pandas are cute, Pandas library is powerful</sub>*
-
-<img src="https://skillicons.dev/icons?i=numpy" width="55" alt="Numpy"/>
-*<sub>🔢 Making math look easy and fast</sub>*
-
-<img src="https://skillicons.dev/icons?i=matplotlib" width="55" alt="Matplotlib"/>
-*<sub>📈 Drawing pretty pictures with numbers</sub>*
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="SQL"/>
 
 </div>
 
 ### 🧰 Tools & Environments
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VSCode"/>
-<img src="https://skillicons.dev/icons?i=jupyter" width="55" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="32"/>
-
-*<sub>🛠️ My digital playground</sub>*
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="32" alt="PyCharm"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="32" alt="Google Colab"/>
 
 </div>
 
@@ -97,71 +72,5 @@ Build impactful data projects, write clean code that future-me will thank me for
 |        Category        | Focus Areas                                                 |
 | :--------------------: | :---------------------------------------------------------- |
 |   🤖 **Core Fields**   | Data Analytics • Machine Learning • Artificial Intelligence |
-| 🧠 **Specializations** | NLP (Teaching bots to chat nicely) • Computer Vision (Teaching them to see the cute stuff) |
-|   💻 **Engineering**   | Software Development • Database Systems                     |
-
----
-
-## 🏆 Certifications  
-
-<div align="center">
-
-### Microsoft Certified
-<img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>  
-**Microsoft Certified: Azure AI Fundamentals (AI-900)**  
-*Yes, I speak fluent Cloud. No, it's not just a fluffy sky thing.*
-<br>
-### IBM
-<img src="https://img.shields.io/badge/IBM-Introduction%20to%20Data%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>  
-**Introduction to Data Analytics**  
-**IBM · Coursera**  
-*Officially certified to say "The data suggests..." with maximum confidence.*
-
-</div>
-
----
-
-## 🚀 Featured Projects 
-
-### 🎬 Movie Rating Analysis
-Analyzed movie datasets using **Python**, **Pandas**, and **Matplotlib** so you don't have to waste time on bad movies. Spoiler alert: The data never lies, even if the critics do.
-
-### 💊 Pharmacy Management System
-Architected an object-oriented **Java** console application to streamline medicine inventory. It won't cure your bugs, but it will definitely keep track of the inventory!
-
-### 📰 News Classification using NLP
-Engineered an end-to-end ML pipeline utilizing text preprocessing, tokenization, and vectorization to categorize news articles. Because reading the internet manually is so last decade.
-
-### 📚 Library Management System
-Developed an object-oriented CRUD application connected to a database to efficiently manage library records. Yes, it manages books. No, it won't read them for you.
-
----
-
-## 🌱 Currently Exploring  
-
-📊 **Analytics & BI**  
-Microsoft Excel *(Yes, I love a good pivot table)* • Power BI *(Making dashboards that don't hurt the eyes)*
-
-🤖 **Machine Learning**  
-Scikit-learn • Advanced ML Algorithms • Deep Learning *(Going deeper than my procrastination habits)*
-
----
-
-## 📫 Connect With Me  
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:sadeenabdelalrahman2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 🎀 Code • Analyze • Innovate • Spread Good Vibes 🎀
-*✨ Built with 💖, ☕, and a touch of kawaii magic. ✨*
-
-</div>
+| 🧠 **Specializations** | Natural Language Processing (NLP) • Computer Vision         |
+|  
