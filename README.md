@@ -73,4 +73,70 @@ Build impactful data projects, enhance software engineering practices, and contr
 | :--------------------: | :---------------------------------------------------------- |
 |   🤖 **Core Fields**   | Data Analytics • Machine Learning • Artificial Intelligence |
 | 🧠 **Specializations** | Natural Language Processing (NLP) • Computer Vision         |
-|  
+|   💻 **Engineering**   | Software Development • Database Systems                     |
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+### 🔷 Microsoft
+<img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>  
+- **Certificate Name:** Azure AI Fundamentals (AI-900)  
+- **Platform:** Microsoft Learn  
+
+<br>
+
+### 📊 IBM
+<img src="https://img.shields.io/badge/IBM-Data%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>  
+- **Certificate Name:** Introduction to Data Analytics  
+- **Platform:** Coursera (by IBM)  
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Movie Rating Analysis
+Conducted full data cleansing, exploratory data analysis, and metric visualizations on movie datasets using **Python**, **Pandas**, and **Matplotlib** to extract meaningful insights from raw data.
+
+### 💊 Pharmacy Management System
+Architected an object-oriented **Java** console application to streamline medicine inventory tracking, stock levels, and daily operational workflows.
+
+### 📰 News Classification using NLP
+Engineered an end-to-end Machine Learning pipeline utilizing text preprocessing, tokenization, and vectorization techniques to accurately categorize news articles.
+
+### 📚 Library Management System
+Developed an object-oriented CRUD application connected to a **MySQL** database to efficiently manage library records and user transactions.
+
+---
+
+## 🌱 Currently Exploring
+
+📊 **Analytics & BI**  
+Microsoft Excel • Power BI
+
+🤖 **Machine Learning**  
+Scikit-learn • Advanced ML Algorithms • Deep Learning
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sadeenabdelalrahman2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+### ⭐ Code • Analyze • Innovate • Repeat ⭐
+
+</div>
