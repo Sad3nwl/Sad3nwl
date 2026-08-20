@@ -22,7 +22,7 @@
 
 ---
 
-## 💫 About Me (من أنا؟)
+## 💫 About Me  
 
 > *"Learning by building, debugging with a smile, and improving through practice (and maybe some snacks)."*
 
@@ -40,7 +40,7 @@ Build impactful data projects, write clean code that future-me will thank me for
 
 ---
 
-## 🛠️ Technical Skills (أدواتي السحرية)
+## 🛠️ Technical Skills  
 
 ### 💻 Languages & Database
 <div align="left">
@@ -102,13 +102,66 @@ Build impactful data projects, write clean code that future-me will thank me for
 
 ---
 
-## 🏆 Certifications (أوسمتي وفخري)
+## 🏆 Certifications  
 
 <div align="center">
 
-### 🔷 Microsoft Certified
+### Microsoft Certified
 <img src="https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>  
 **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
 *Yes, I speak fluent Cloud. No, it's not just a fluffy sky thing.*
+<br>
+### IBM
+<img src="https://img.shields.io/badge/IBM-Introduction%20to%20Data%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>  
+**Introduction to Data Analytics**  
+**IBM · Coursera**  
+*Officially certified to say "The data suggests..." with maximum confidence.*
 
-<br
+</div>
+
+---
+
+## 🚀 Featured Projects 
+
+### 🎬 Movie Rating Analysis
+Analyzed movie datasets using **Python**, **Pandas**, and **Matplotlib** so you don't have to waste time on bad movies. Spoiler alert: The data never lies, even if the critics do.
+
+### 💊 Pharmacy Management System
+Architected an object-oriented **Java** console application to streamline medicine inventory. It won't cure your bugs, but it will definitely keep track of the inventory!
+
+### 📰 News Classification using NLP
+Engineered an end-to-end ML pipeline utilizing text preprocessing, tokenization, and vectorization to categorize news articles. Because reading the internet manually is so last decade.
+
+### 📚 Library Management System
+Developed an object-oriented CRUD application connected to a database to efficiently manage library records. Yes, it manages books. No, it won't read them for you.
+
+---
+
+## 🌱 Currently Exploring  
+
+📊 **Analytics & BI**  
+Microsoft Excel *(Yes, I love a good pivot table)* • Power BI *(Making dashboards that don't hurt the eyes)*
+
+🤖 **Machine Learning**  
+Scikit-learn • Advanced ML Algorithms • Deep Learning *(Going deeper than my procrastination habits)*
+
+---
+
+## 📫 Connect With Me  
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sadeenabdelalrahman2@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🎀 Code • Analyze • Innovate • Spread Good Vibes 🎀
+*✨ Built with 💖, ☕, and a touch of kawaii magic. ✨*
+
+</div>
