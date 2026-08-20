@@ -87,7 +87,7 @@ Build impactful data projects, enhance software engineering practices, and contr
 <br>
 
 ### 📊 IBM
-<img src="https://img.shields.io/badge/IBM-Data%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>  
+<img src="https://img.shields.io/badge/IBM-Introdaction%20Data%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>  
 </div>
 
 ---
