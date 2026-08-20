@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sadeen Abdelalrahman
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> Hi, I'm <span style="color:#3776AB">**Sadeen Abdelalrahman**</span> 👋
 
 ### 🎓 Artificial Intelligence Student @ Al-Zaytoonah University of Jordan
 ### 💻 Aspiring Data Analyst & Machine Learning Enthusiast
@@ -63,6 +63,8 @@
 
 ![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-AI--900-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 - **Microsoft Certified:** Azure AI Fundamentals (AI-900)
+
+- **IBM (via Coursera):** Introduction to Data Analytics — Issued Aug 2026 · [Verify](https://coursera.org/verify/K5AVDA4XK9QD)
 
 ---
 
