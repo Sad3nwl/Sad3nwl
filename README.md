@@ -1,72 +1,64 @@
 <div align="center">
 
-<img src="hello-kitty.png.gif" width="140" alt="profile"/>
+<img src="hello-kitty.png.gif" width="150" alt="Hello Kitty"/>
 
-# Sadeen Abdelalrahman
+# ✨ Sadeen Abdelalrahman
 
-**Artificial Intelligence Student • Data Analyst • Machine Learning**
+### Artificial Intelligence Student | Aspiring Data Analyst | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Turning+Data+Into+Insights;Building+Practical+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=system+online+-+welcome_;Turning+Data+Into+Insights;Building+Practical+AI+Solutions" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadeenabdelalrahman2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sad3nwl)
 
 </div>
 
 ---
 
-### whoami
+### 💫 whoami
 
-I'm **Sadeen** — an Artificial Intelligence student at Al-Zaytoonah University of Jordan.  
-I build data analysis projects, machine learning models, and practical AI solutions. Currently focused on turning complex data into clear insights and solving real problems.
+I'm **Sadeen**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**.  
+I love turning complex data into clear insights and building practical solutions using Machine Learning and Data Analysis.
 
----
-
-### tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-44A3C4?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-</p>
+- 🎓 Bachelor's in Artificial Intelligence  
+- 💻 Focused on Data Analysis, NLP & Machine Learning  
+- 🚀 Always learning by building real projects  
+- 🌍 Based in Amman, Jordan  
 
 ---
 
-### github analytics
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sad3nwl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sad3nwl&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="160"/>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<br><br>
+**Data Science & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-44A3C4?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad3nwl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" height="160"/>
+**Tools & Environment**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 </div>
 
 ---
 
-### featured projects
-
-- **News Classification using NLP** → End-to-end text classification pipeline  
-- **Pharmacy Management System** → Full OOP console application in Java  
-- **Movie Data Analysis** → Complete EDA + visualizations  
-- **Brain Tumor Detection** → Deep Learning + Grad-CAM  
-- **Library Management System** → CRUD system with MySQL  
-
----
-
-### currently exploring
+### 🎯 Focus Areas
 
 ```text
-Advanced Machine Learning  •  Deep Learning  •  NLP  •  Real-world Data Projects
+Data Analytics  •  Machine Learning  •  Natural Language Processing
+Computer Vision  •  Software Development  •  Database Systems
