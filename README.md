@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hello-kitty.png.gif" width="150" alt="Hello Kitty"/>
+<img src="Post by @simple-domain · 1 image.gif" width="200" alt="Hello Kitty"/>
 
 # ✨ Sadeen Abdelalrahman
 
