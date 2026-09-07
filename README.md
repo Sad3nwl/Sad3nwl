@@ -41,11 +41,6 @@ I love turning complex data into clear insights and building practical solutions
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sad3nwl&theme=radical" width="49%" alt="GitHub Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sad3nwl&theme=radical&utcOffset=3" width="49%" alt="Productive Time"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sad3nwl&theme=radical" width="49%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sad3nwl&theme=radical" width="49%" alt="Top Languages"/>
-
 </div>
 
 ---
