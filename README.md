@@ -18,7 +18,7 @@
 
 ---
 
-### 💫 whoami
+### 💫 who ami
 
 I'm **Sadeen**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**.  
 I love turning complex data into clear insights and building practical solutions using Machine Learning and Data Analysis.
@@ -85,4 +85,4 @@ I love turning complex data into clear insights and building practical solutions
 
 ```text
 Data Analytics  •  Machine Learning  •  Natural Language Processing
-Computer Vision  •  Software Development  •  Database Systems
+Computer Vision  •  Software Development  •  Database Systems  • GENREATIVE AI
