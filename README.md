@@ -23,10 +23,9 @@
 I'm **Sadeen**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**.  
 I love turning complex data into clear insights and building practical solutions using Machine Learning and Data Analysis.
 
-- 🎓 Bachelor's in Artificial Intelligence
-- 💻 Focused on Data Analysis, NLP & Machine Learning
+- 🎓 Bachelor's in Artificial Intelligence (GPA 90.9)
+- 💻 Focused on Data Analysis, NLP & Machine Learning, LLM,RAG
 - 🚀 Always learning by building real projects
-- 🌍 Based in Amman, Jordan
 
 ---
 
