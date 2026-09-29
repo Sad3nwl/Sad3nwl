@@ -56,8 +56,6 @@ I thrive on transforming complex data into clear, actionable insights and buildi
 - 👁️ **Computer Vision:** Analyzing and interpreting visual data.
 - 💻 **Software Development & Databases:** Creating robust, data-driven applications.
 
----
-
 ### 📫 Let's Connect!
 
 I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!
