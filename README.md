@@ -29,22 +29,6 @@ I love turning complex data into clear insights and building practical solutions
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sad3nwl&theme=radical" alt="Profile Details"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sad3nwl&theme=radical" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sad3nwl&theme=radical&utcOffset=3" width="49%" alt="Productive Time"/>
-
-</div>
-
----
-
-
 ---
 
 
