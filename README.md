@@ -5,8 +5,8 @@
   <h1>👋 Hi there, I'm Sadeen!</h1>
   <h3>Artificial Intelligence & Data Science Student | Aspiring Data Analyst | Machine Learning Enthusiast</h3>
   
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
+  <!-- Typing Animation (لون أصفر ذهبي) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
   
   <br>
   
@@ -26,7 +26,7 @@
 
 ### 👩‍💻 About Me
 
-I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan [[11]], [[12]].  
+I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
 I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
 
 - 🎓 **Education:** Bachelor's in Artificial Intelligence & Data Science (**GPA: 90.9 / 100**)
@@ -46,7 +46,7 @@ I thrive on transforming complex data into clear, actionable insights and buildi
 | 📊 **Data Science & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
 | 🧠 **AI & Deep Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
 | 🛠️ **Tools & Frameworks** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| 🗄️ **Databases & Vector DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFD000?style=for-the-badge&logo=chroma&logoColor=black) |
+| 🗄️ **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
 </div>
 
@@ -80,7 +80,7 @@ I thrive on transforming complex data into clear, actionable insights and buildi
 
 ### 🏆 Certifications & Leadership
 
-- 🎤 **Event Organizer** at Al-Zaytoonah University of Jordan: Actively contributed to building the tech community and organizing technical events for students [[7]].
+- 🎤 **Event Organizer** at Al-Zaytoonah University of Jordan: Actively contributed to building the tech community and organizing technical events for students.
 - 🏅 **Object Oriented Programming (OOP) Paradigm** – HTUx Platform.
 - 🏅 **Introduction: Setup Development Environment** – HTUx Platform.
 
