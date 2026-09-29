@@ -33,9 +33,6 @@ I thrive on transforming complex data into clear, actionable insights and buildi
 - 🧠 **Core Interests:** Data Analysis, NLP, Machine Learning, LLMs, RAG, and Generative AI.
 - 🚀 **Philosophy:** Always learning by building real-world projects and solving meaningful problems.
 - 🌱 **Currently Exploring:** Advanced RAG techniques and deep learning architectures.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
