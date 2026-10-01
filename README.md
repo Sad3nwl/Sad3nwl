@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Dynamic Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadeen%20Abdelalrahman&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner"/>
-  
+
   <h1>👋 Hi there, I'm Sadeen!</h1>
   <h3>Artificial Intelligence & Data Science Student | Aspiring Data Analyst | Machine Learning Enthusiast</h3>
   
@@ -21,18 +21,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
 ---
-
 ### 👩‍💻 About Me
-
 I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
 I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
 
 - 🎓 **Education:** Bachelor's in Artificial Intelligence & Data Science (**GPA: 90.9 / 100**)
 - 🧠 **Core Interests:** Data Analysis, Neural Networks, NLP, Machine Learning, LLMs, RAG, and Generative AI.
 - 🚀 **Philosophy:** Always learning by building real-world projects and solving meaningful problems.
-- 🌱 **Currently Exploring:** Advanced RAG techniques, Explainable AI (XAI), and deep learning architectures.
+- 💻**Currently Exploring:** Advanced RAG techniques, Explainable AI (XAI), and deep learning architectures.
 
 ---
 
