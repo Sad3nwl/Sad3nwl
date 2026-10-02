@@ -23,6 +23,7 @@
 </div>
 ---
 ### 👩‍💻 About Me
+---
 I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
 I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
 
