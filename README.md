@@ -23,10 +23,9 @@
 </div>
 ---
 ### 👩‍💻 About Me
----
+ 
 I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
 I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
-
 - 🎓 **Education:** Bachelor's in Artificial Intelligence & Data Science (**GPA: 90.9 / 100**)
 - 🧠 **Core Interests:** Data Analysis, Neural Networks, NLP, Machine Learning, LLMs, RAG, and Generative AI.
 - 🚀 **Philosophy:** Always learning by building real-world projects and solving meaningful problems.
