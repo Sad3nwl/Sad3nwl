@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadeen%20Abdelalrahman&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner"/>
 
   <h1>👋 Hi there, I'm Sadeen!</h1>
-  <h3>Artificial Intelligence & Data Science Student | Aspiring Data Analyst | Machine Learning Enthusiast</h3>
+  <h3>Artificial Intelligence & Data Science Student | Aspiring AI Engineer  | Machine Learning Enthusiast</h3>
   
   <!-- Typing Animation (لون أصفر ذهبي) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
