@@ -100,9 +100,6 @@ I'm always open to collaborating on exciting AI/Data projects, discussing new te
   <a href="mailto:sadeenabdelrahman2@gmail.com">
     <img src="https://img.shields.io/badge/📧_Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Sad3nwl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 <div align="center">
