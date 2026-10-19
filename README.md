@@ -2,10 +2,17 @@
   <!-- Dynamic Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadeen%20Abdelalrahman&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner"/>
 
-  <h1>
-    👋 Hi there, I'm Sadeen! 
-    <img src="robot.gif" alt="Robot" width="150" style="vertical-align: middle; margin-left: 10px;"/>
-  </h1>
+  <table align="center" style="border: none; background: transparent;">
+    <tr>
+      <td style="border: none; vertical-align: middle;">
+        <img src="robot.gif" alt="Robot" width="60"/>
+      </td>
+      <td style="border: none; vertical-align: middle; text-align: left;">
+        <h1>👋 Hi there, I'm Sadeen!</h1>
+      </td>
+    </tr>
+  </table>
+
   <h3>Artificial Intelligence & Data Science Student | Aspiring AI Engineer  | Machine Learning Enthusiast</h3>
   
   <!-- Typing Animation (لون أصفر ذهبي) -->
