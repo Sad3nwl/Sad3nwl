@@ -82,4 +82,44 @@ I thrive on transforming complex data into clear, actionable insights and buildi
 ### 🏆 Certifications & Leadership
 
 - 🎤 **Event Organizer** at Al-Zaytoonah University of Jordan: Actively contributed to building the tech community and organizing technical events for students.
-- 🏅 **Microsoft Certified: Azure AI Fundamentals (AI-90
+- 🏅 **Microsoft Certified: Azure AI Fundamentals (AI-900)** – Microsoft
+- 🏅 **Python for Data Science, AI & Development** – IBM (Coursera)
+- 🏅 **Databases and SQL for Data Science with Python** – IBM (Coursera)
+- 🏅 **Data Analysis with Python** – IBM (Coursera)
+- 🏅 **Introduction to Data Analytics** – IBM (Coursera)
+- 🏅 **Excel Basics for Data Analysis** – IBM (Coursera)
+- 🏅 **Data Visualization and Dashboards with Excel and Cognos** – IBM (Coursera)
+- 🏅 **Object-Oriented Programming (OOP) Paradigm (JAVA)** – HTU (Numo Program)
+- 🏅 **Introduction: Setup Development Environment** – HTU (Numo Program)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sad3nwl&show_icons=true&theme=radical&hide_border=true&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad3nwl&layout=compact&theme=radical&hide_border=true&title_color=FFD700" alt="Top Languages" width="45%"/>
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sadeenabdelrahman2@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Sad3nwl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Banner"/>
+</div>
