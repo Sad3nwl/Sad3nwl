@@ -4,7 +4,7 @@
 
   <h1>
     👋 Hi there, I'm Sadeen! 
-    <img src="robot.gif" alt="Robot" width="50" style="vertical-align: middle; margin-left: 10px;"/>
+    <img src="robot.gif" alt="Robot" width="150" style="vertical-align: middle; margin-left: 10px;"/>
   </h1>
   <h3>Artificial Intelligence & Data Science Student | Aspiring AI Engineer  | Machine Learning Enthusiast</h3>
   
