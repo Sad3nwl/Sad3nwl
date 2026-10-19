@@ -5,7 +5,7 @@
   <table align="center" style="border: none; background: transparent;">
     <tr>
       <td style="border: none; vertical-align: middle;">
-        <img src="robot.gif" alt="Robot" width="60"/>
+        <img src="robot.gif" alt="Robot" width="80"/>
       </td>
       <td style="border: none; vertical-align: middle; text-align: left;">
         <h1>👋 Hi there, I'm Sadeen!</h1>
