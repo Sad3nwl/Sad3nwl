@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=00f2fe,4facfe&height=200&section=header&text=Sadeen%20Abdelalrahman&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Sadeen%20Abdelalrahman&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00f2fe&fontAlign=50" alt="Header Banner"/>
 </p>
 
-<h3 align="center">Artificial Intelligence & Data Science Student | Aspiring AI Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center" style="color: #e0e0e0;">Artificial Intelligence & Data Science Student | Aspiring AI Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00f2fe&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f3460" alt="LinkedIn"/>
   </a>
   <a href="mailto:sadeenabdelrahman2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f3460" alt="Email"/>
   </a>
   <a href="https://github.com/Sad3nwl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0f3460&labelColor=ffffff" alt="GitHub"/>
   </a>
 </p>
 
@@ -24,8 +24,10 @@
 
 ### 👩‍💻 About Me
  
-> I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
+> <p style="color: #b0b0b0; font-size: 1.1em;">
+> I'm <strong style="color: #00f2fe;">Sadeen Abdelalrahman</strong>, a passionate Artificial Intelligence and Data Science student at <strong>Al-Zaytoonah University of Jordan</strong>, based in Amman, Jordan.<br>
 > I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
+> </p>
 
 - 🎓 **Education:** Bachelor's in Artificial Intelligence & Data Science (**GPA: 90.9 / 100**)
 - 🧠 **Core Interests:** Data Analysis, Neural Networks, NLP, Machine Learning, LLMs, RAG, and Generative AI.
@@ -34,36 +36,14 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools *(Hover over the icons!)*
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <br><br>
-  <!-- Data Science & BI -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-44A3C4?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
-  <br><br>
-  <!-- AI & Deep Learning -->
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <br><br>
-  <!-- Tools & IDEs -->
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <br><br>
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <!-- Row 1: Languages & Data -->
+  <img src="https://skillicons.dev/icons?i=python,java,sql,pandas,numpy,matplotlib,seaborn,powerbi,plotly&theme=dark&perline=9" alt="Data Stack"/>
+  <br>
+  <!-- Row 2: AI, Deep Learning & Tools -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,langchain,git,mysql,pycharm,googlecolab,streamlit,jupyter&theme=dark&perline=9" alt="AI & Tools Stack"/>
 </p>
 
 ---
@@ -105,7 +85,7 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!
+  <em>I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!</em>
 </p>
 
 <p align="center">
@@ -118,5 +98,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=00f2fe,4facfe&height=80&section=footer" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" alt="Footer Banner"/>
 </p>
