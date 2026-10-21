@@ -1,22 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Sadeen%20Abdelalrahman&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00f2fe&fontAlign=50" alt="Header Banner"/>
+  <!-- Neon Glow Behind Name on Pure Black Background -->
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 150'%3E%3Crect width='800' height='150' fill='%23000000'/%3E%3Ctext x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-family='Courier New, monospace' font-size='50' font-weight='bold' fill='%2300f3ff' style='filter: drop-shadow(0 0 10px %2300f3ff) drop-shadow(0 0 20px %2300f3ff);'%3ESadeen Abdelalrahman%3C/text%3E%3C/svg%3E" alt="Neon Name Banner"/>
 </p>
 
 <h3 align="center" style="color: #e0e0e0;">Artificial Intelligence & Data Science Student | Aspiring AI Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00f2fe&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
+  <!-- Animated Typing with Black Background -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00f3ff&background=000000&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
 </p>
 
 <p align="center">
+  <!-- Black Neon Social Badges -->
   <a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f3460" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f3ff" alt="LinkedIn"/>
   </a>
   <a href="mailto:sadeenabdelrahman2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f3460" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/Sad3nwl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0f3460&labelColor=ffffff" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
   </a>
 </p>
 
@@ -25,7 +28,7 @@
 ### 👩‍💻 About Me
  
 > <p style="color: #b0b0b0; font-size: 1.1em;">
-> I'm <strong style="color: #00f2fe;">Sadeen Abdelalrahman</strong>, a passionate Artificial Intelligence and Data Science student at <strong>Al-Zaytoonah University of Jordan</strong>, based in Amman, Jordan.<br>
+> I'm <strong style="color: #00f3ff;">Sadeen Abdelalrahman</strong>, a passionate Artificial Intelligence and Data Science student at <strong>Al-Zaytoonah University of Jordan</strong>, based in Amman, Jordan.<br>
 > I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
 > </p>
 
@@ -36,14 +39,20 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools *(Hover over the icons!)*
+### 🛠️ Tech Stack & Tools *(Hover over the icons to see them glow!)*
 
 <p align="center">
-  <!-- Row 1: Languages & Data -->
-  <img src="https://skillicons.dev/icons?i=python,java,sql,pandas,numpy,matplotlib,seaborn,powerbi,plotly&theme=dark&perline=9" alt="Data Stack"/>
-  <br>
-  <!-- Row 2: AI, Deep Learning & Tools -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,langchain,git,mysql,pycharm,googlecolab,streamlit,jupyter&theme=dark&perline=9" alt="AI & Tools Stack"/>
+  <!-- Animated Skill Icons (Dark/Black Theme) - Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,pandas,numpy,matplotlib,powerbi,tensorflow,scikitlearn&theme=dark&perline=9" alt="Core Stack"/>
+  <br><br>
+  <!-- Animated Skill Icons (Dark/Black Theme) - Row 2 -->
+  <img src="https://skillicons.dev/icons?i=pycharm,streamlit,jupyter,git&theme=dark&perline=9" alt="Tools Stack"/>
+  <br><br>
+  <!-- Explicit Black Badges for tools not fully supported in the above generator to ensure 100% are present -->
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=44A3C4" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=3F4F75" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=ffffff" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
 </p>
 
 ---
@@ -85,7 +94,7 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <em>I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!</em>
+  <em style="color: #b0b0b0;">I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!</em>
 </p>
 
 <p align="center">
@@ -95,8 +104,4 @@
   <a href="mailto:sadeenabdelrahman2@gmail.com">
     <img src="https://img.shields.io/badge/📧_Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" alt="Footer Banner"/>
 </p>
