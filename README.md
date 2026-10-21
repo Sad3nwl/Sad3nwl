@@ -1,33 +1,31 @@
-<div align="center">
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadeen%20Abdelalrahman&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=00f2fe,4facfe&height=200&section=header&text=Sadeen%20Abdelalrahman&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+</p>
 
-  <h1>👋 Hi there, I'm Sadeen!</h1>
-  <h3>Artificial Intelligence & Data Science Student | Aspiring AI Engineer | Machine Learning Enthusiast</h3>
-  
-  <!-- Typing Animation (Golden Yellow) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
-  
-  <br>
+<h3 align="center">Artificial Intelligence & Data Science Student | Aspiring AI Engineer | Machine Learning Enthusiast</h3>
 
-  <!-- Social Links -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Actionable+Insights;Building+Explainable+AI+Solutions;Learning+by+Creating;Code.+Analyze.+Innovate." alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sadeenabdelrahman2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Sad3nwl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
+</p>
 
 ---
 
 ### 👩‍💻 About Me
  
-I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
-I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
+> I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
+> I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
 
 - 🎓 **Education:** Bachelor's in Artificial Intelligence & Data Science (**GPA: 90.9 / 100**)
 - 🧠 **Core Interests:** Data Analysis, Neural Networks, NLP, Machine Learning, LLMs, RAG, and Generative AI.
@@ -38,43 +36,57 @@ I thrive on transforming complex data into clear, actionable insights and buildi
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| 📊 **Data Science & BI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-44A3C4?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
-| 🧠 **AI & Deep Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
-| 🛠️ **Tools & IDEs** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| 🗄️ **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
-</div>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <br><br>
+  <!-- Data Science & BI -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-44A3C4?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <br><br>
+  <!-- AI & Deep Learning -->
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <br><br>
+  <!-- Tools & IDEs -->
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <br><br>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-<div align="left">
+> **🧠 [Brain Tumor Detection & Explainable AI](https://github.com/Sad3nwl/Brain-Tumor-Detection)**  
+> *Deep Learning pipeline for Brain Tumor classification using Transfer Learning (MobileNetV2) and visual model explanations via Grad-CAM to ensure clinical interpretability.*
 
-- **🧠 [Brain Tumor Detection & Explainable AI](https://github.com/Sad3nwl/Brain-Tumor-Detection)**  
-  *Deep Learning pipeline for Brain Tumor classification using Transfer Learning (MobileNetV2) and visual model explanations via Grad-CAM to ensure clinical interpretability.*
+> **🤖 [Arabic RAG Wikipedia](https://github.com/Sad3nwl/arabic-rag-wikipedia)**  
+> *A Retrieval-Augmented Generation (RAG) application that answers questions using Arabic Wikipedia articles, built with LangChain, ChromaDB, and Streamlit.*
 
-- **🤖 [Arabic RAG Wikipedia](https://github.com/Sad3nwl/arabic-rag-wikipedia)**  
-  *A Retrieval-Augmented Generation (RAG) application that answers questions using Arabic Wikipedia articles, built with LangChain, ChromaDB, and Streamlit.*
+> **📊 [CarInsight Dashboard](https://github.com/Sad3nwl/CarInsight-Dashboard)**  
+> *Interactive car data analysis dashboard built with Python, Pandas, Plotly, and Streamlit, featuring interactive filters, visualizations, KPIs, and statistical insights.*
 
-- **📊 [CarInsight Dashboard](https://github.com/Sad3nwl/CarInsight-Dashboard)**  
-  *Interactive car data analysis dashboard built with Python, Pandas, Plotly, and Streamlit, featuring interactive filters, visualizations, KPIs, and statistical insights.*
+> **📰 [News Classification using NLP](https://github.com/Sad3nwl/-News-Classification-using-NLP)**  
+> *Natural Language Processing application that classifies news articles into different categories using Machine Learning techniques.*
 
-- **📰 [News Classification using NLP](https://github.com/Sad3nwl/-News-Classification-using-NLP)**  
-  *Natural Language Processing application that classifies news articles into different categories using Machine Learning techniques.*
+> **💬 [Arabic Sentiment Analysis](https://github.com/Sad3nwl/arabic-sentiment-analysiss)**  
+> *Arabic sentiment analysis using TF-IDF and classical machine learning to classify reviews into Positive, Negative, and Mixed sentiments.*
 
-- **💬 [Arabic Sentiment Analysis](https://github.com/Sad3nwl/arabic-sentiment-analysiss)**  
-  *Arabic sentiment analysis using TF-IDF and classical machine learning to classify reviews into Positive, Negative, and Mixed sentiments.*
-
-- **💊 [Pharmacy Management System](https://github.com/Sad3nwl/-Pharmacy-Management-System)**  
-  *A Java-based console application for managing pharmacy inventories and patient prescriptions, demonstrating core OOP principles (encapsulation, inheritance, polymorphism).*
-
-</div>
+> **💊 [Pharmacy Management System](https://github.com/Sad3nwl/-Pharmacy-Management-System)**  
+> *A Java-based console application for managing pharmacy inventories and patient prescriptions, demonstrating core OOP principles (encapsulation, inheritance, polymorphism).*
 
 ---
 
@@ -89,9 +101,12 @@ I thrive on transforming complex data into clear, actionable insights and buildi
 - 🏅 **Introduction: Setup Development Environment** – HTUx Platform
 
 ---
+
 ### 📫 Let's Connect!
 
-I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!
+<p align="center">
+  I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322" target="_blank">
@@ -102,7 +117,6 @@ I'm always open to collaborating on exciting AI/Data projects, discussing new te
   </a>
 </p>
 
-<div align="center">
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Banner"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=00f2fe,4facfe&height=80&section=footer" alt="Footer Banner"/>
+</p>
