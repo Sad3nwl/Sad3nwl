@@ -1,10 +1,10 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:172554,100:00F0FF&height=220&section=header&text=Sadeen&fontSize=65&fontColor=00F0FF&fontAlignY=40&animation=twinkling&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%2F%20DATA%20SCIENCE&descSize=14&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:02030A,30:080F27,60:101D3D,100:03050C&height=240&section=header&text=Sadeen%20Abdelrahman&fontSize=48&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8FA8D8&center=true&vCenter=true&width=650&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST"/>
 
 </div>
-
-<div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────╮
@@ -22,7 +22,7 @@
 
 </div>
 
-## `01` // WHO AM I?
+##  WHO AM I?
 
 I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student passionate about transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
 
@@ -30,7 +30,7 @@ I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student 
 - `CURRENTLY_EXPLORING` → Advanced RAG, Explainable AI (XAI), Deep Learning Architectures.
 - `PHILOSOPHY` → Learning by building real-world projects and solving meaningful problems.
 
-## `02` // CONNECT TO MY NETWORK
+##   CONNECT TO MY NETWORK
 
 <p align="center">
 <a href="https://github.com/Sad3nwl"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
@@ -38,7 +38,7 @@ I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student 
 <a href="mailto:sadeenabdelrahman2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF00FF"/></a>
 </p>
 
-## `03` // TECHNOLOGY MATRIX
+##  TECHNOLOGY MATRIX
 
 **[ PROGRAMMING ]**
 
@@ -66,7 +66,7 @@ I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student 
 <img src="https://img.shields.io/badge/Google_Colab-050505?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
 <img src="https://img.shields.io/badge/Streamlit-050505?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 
-## `04` // DEPLOYED PROJECTS
+##  DEPLOYED PROJECTS
 
 | PROJECT | DESCRIPTION | ACCESS |
 |:---|:---|:---:|
@@ -77,7 +77,7 @@ I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student 
 | 💬 Arabic Sentiment Analysis | TF-IDF + Machine Learning | [OPEN](https://github.com/Sad3nwl/arabic-sentiment-analysiss) |
 | 💊 Pharmacy Management System | Java + OOP | [OPEN](https://github.com/Sad3nwl/-Pharmacy-Management-System) |
 
-## `05` // CERTIFICATIONS & ACHIEVEMENTS
+## CERTIFICATIONS & ACHIEVEMENTS
 
 ```text
 [01] Microsoft Certified: Azure AI Fundamentals — Microsoft
@@ -93,7 +93,7 @@ Actively contributed to building the tech community
 and organizing technical events for students.
 ```
 
-## `06` // GITHUB PERFORMANCE
+## GITHUB PERFORMANCE
 
 <div align="center">
 
@@ -105,7 +105,7 @@ and organizing technical events for students.
 
 </div>
 
-## `07` // END OF TRANSMISSION
+##  END OF TRANSMISSION
 
 <div align="center">
 
