@@ -1,6 +1,6 @@
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020817,40:061B3A,60:003B70,80:07152B,100:000000&height=300&section=header&text=Sadeen%20Abdelrahman&fontSize=62&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020817,40:061B3A,60:003B70,80:07152B,100:000000&height=300&section=header&text=Sadeen%20Abdelalrahman&fontSize=62&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=5DA9E9&center=true&vCenter=true&width=800&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST"/>
 </div>
  
