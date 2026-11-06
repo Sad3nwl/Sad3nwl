@@ -98,8 +98,4 @@ I'm always open to collaborating on exciting AI/Data projects, discussing new te
   </a>
 </p>
 
-<div align="center">
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Banner"/>
-</div>
-
+ 
