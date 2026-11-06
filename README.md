@@ -1,10 +1,10 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:02030A,30:080F27,60:101D3D,100:03050C&height=240&section=header&text=Sadeen%20Abdelrahman&fontSize=48&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8FA8D8&center=true&vCenter=true&width=650&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST"/>
-
+ 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0B1B3A,100:000000&height=260&section=header&text=Sadeen%20Abdelrahman&fontSize=48&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8FA8D8&center=true&vCenter=true&width=650&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST"/>
 </div>
+ 
 
 ```text
 ╭──────────────────────────────────────────────────────╮
