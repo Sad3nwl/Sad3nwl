@@ -1,22 +1,26 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:090B1A,100:00F0FF&height=220&section=header&text=S4D33N.exe&fontSize=65&fontColor=00F0FF&fontAlignY=40&animation=twinkling&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%2F%20DATA%20SCIENCE&descSize=14&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZED...;S4D33N+%7C+AI+ENGINEER+IN+PROGRESS;DATA+IS+THE+NEW+INTELLIGENCE;BUILDING+THE+FUTURE+WITH+AI;THINK.+CODE.+INNOVATE."/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:172554,100:00F0FF&height=220&section=header&text=Sadeen&fontSize=65&fontColor=00F0FF&fontAlignY=40&animation=twinkling&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%2F%20DATA%20SCIENCE&descSize=14&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 </div>
 
+<div align="center">
+
 ```text
-┌──────────────────────────────────────────────────────┐
-│  USER_ID       : S4D33N                               │
-│  CLASS         : ARTIFICIAL INTELLIGENCE              │
-│  UNIVERSITY    : AL-ZAYTOONAH UNIVERSITY OF JORDAN    │
-│  GPA           : 90.9 / 100                           │
-│  LOCATION      : AMMAN, JORDAN                        │
-│  STATUS        : ALWAYS LEARNING                      │
-│  MISSION       : TURNING DATA INTO INTELLIGENCE       │
-└──────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  USER_ID       : SADEEN                              │
+│  CLASS         : ARTIFICIAL INTELLIGENCE             │
+│  UNIVERSITY    : AL-ZAYTOONAH UNIVERSITY OF JORDAN   │
+│  GPA           : 90.9 / 100                          │
+│  LOCATION      : AMMAN, JORDAN                       │
+│  STATUS        : ALWAYS LEARNING                     │
+│  MISSION       : TURNING DATA INTO INTELLIGENCE      │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
+
+</div>
 
 ## `01` // WHO AM I?
 
