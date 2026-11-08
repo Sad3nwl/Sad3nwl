@@ -1,18 +1,9 @@
  
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0c4a6e,100:020617&height=280&section=header&text=Sadeen%20Abdelalrahman&fontSize=50&fontColor=f0f9ff&fontAlignY=45&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student%20%7C%20GPA%3A%2090.9&descAlignY=65&descSize=16" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science;Aspiring+AI+Engineer;Machine+Learning+%26+NLP+Enthusiast;Turning+Data+Into+Intelligence" alt="Typing SVG" />
-</div>
-
-<br>
-
-```text
+‏center">
+‏  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020817,40:061B3A,60:003B70,80:07152B,100:000000&height=300&section=header&text=Sadeen%20Abdelalrahman&fontSize=62&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
+‏  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=5DA9E9&center=true&vCenter=true&width=800&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST"/>
+‏</div>
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
 │   USER_ID      :  SADEEN                                   │
