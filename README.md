@@ -1,8 +1,10 @@
- 
+ <div align="center">
 
- ‏  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020817,40:061B3A,60:003B70,80:07152B,100:000000&height=300&section=header&text=Sadeen%20Abdelalrahman&fontSize=62&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
-‏  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=5DA9E9&center=true&vCenter=true&width=800&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST"/>
-‏</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020817,40:061B3A,60:003B70,80:07152B,100:000000&height=300&section=header&text=Sadeen%20Abdelalrahman&fontSize=62&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=5DA9E9&center=true&vCenter=true&width=800&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST" />
+
+</div>
 
 ```bash
 ╔════════════════════════════════════════════════════════════╗
@@ -18,88 +20,117 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 ABOUT ME
 
-I'm **Sadeen Abdelalrahman**, a passionate Artificial Intelligence and Data Science student at **Al-Zaytoonah University of Jordan**, based in Amman, Jordan.  
+I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student at **Al-Zaytoonah University of Jordan**, passionate about building intelligent solutions and transforming complex data into meaningful insights.
 
-I thrive on transforming complex data into clear, actionable insights and building practical, impactful solutions using Machine Learning, Deep Learning, and NLP.
+I enjoy exploring the intersection of AI, data, and technology, turning ideas into practical projects that solve real-world problems.
 
-- 🎓 **Education:** Bachelor's in Artificial Intelligence & Data Science (**GPA: 90.9 / 100**)
-- 🧠 **Core Interests:** Data Analysis, Neural Networks, NLP, Machine Learning, LLMs, RAG, and Generative AI
-- 🚀 **Philosophy:** Always learning by building real-world projects and solving meaningful problems
-- 💻 **Currently Exploring:** Advanced RAG techniques, Explainable AI (XAI), and deep learning architectures
+- 🎓 **Education:** B.Sc. in Artificial Intelligence & Data Science
+- 🏆 **Academic Achievement:** GPA 90.9 / 100
+- 🧠 **Interests:** Machine Learning, Data Science, NLP, Deep Learning, LLMs, RAG & Generative AI
+- 🔬 **Currently Exploring:** Advanced RAG, Explainable AI (XAI), and Deep Learning Architectures
+- 🚀 **Mindset:** Learn continuously. Build consistently. Improve endlessly.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ TECH STACK & TOOLS
 
 <div align="center">
 
-| Category              | Technologies                                                                 |
-|-----------------------|------------------------------------------------------------------------------|
-| 💻 **Languages**      | `Python` · `Java` · `SQL`                                                    |
-| 📊 **Data Science**   | `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `Plotly`        |
-| 🧠 **AI & DL**        | `Scikit-learn` · `TensorFlow` · `LangChain`                                  |
-| 🛠️ **Tools & IDEs**  | `PyCharm` · `Google Colab` · `Streamlit` · `Jupyter` · `Git`                 |
-| 🗄️ **Databases**     | `MySQL`                                                                      |
+| Category | Technologies |
+|:---|:---|
+| **Programming Languages** | Python · Java · SQL |
+| **Data Science & Analytics** | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI |
+| **AI & Machine Learning** | Scikit-learn · TensorFlow · LangChain |
+| **Development Tools** | PyCharm · Google Colab · Jupyter Notebook · Streamlit |
+| **Version Control** | Git · GitHub |
+| **Databases** | MySQL |
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
-- **🧠 Brain Tumor Detection & Explainable AI**  
-  [→ Repository](https://github.com/Sad3nwl/Brain-Tumor-Detection)  
-  Deep Learning pipeline for Brain Tumor classification using Transfer Learning (MobileNetV2) and visual model explanations via Grad-CAM to ensure clinical interpretability.
+### 🧠 Brain Tumor Detection & Explainable AI
+[Repository](https://github.com/Sad3nwl/Brain-Tumor-Detection)
 
-- **🤖 Arabic RAG Wikipedia**  
-  [→ Repository](https://github.com/Sad3nwl/arabic-rag-wikipedia)  
-  A Retrieval-Augmented Generation (RAG) application that answers questions using Arabic Wikipedia articles, built with LangChain, ChromaDB, and Streamlit.
+Deep Learning project for brain tumor classification using Transfer Learning with MobileNetV2, integrating Grad-CAM visualizations to improve model interpretability.
 
-- **📊 CarInsight Dashboard**  
-  [→ Repository](https://github.com/Sad3nwl/CarInsight-Dashboard)  
-  Interactive car data analysis dashboard built with Python, Pandas, Plotly, and Streamlit, featuring interactive filters, visualizations, KPIs, and statistical insights.
+### 🤖 Arabic RAG Wikipedia
+[Repository](https://github.com/Sad3nwl/arabic-rag-wikipedia)
 
-- **📰 News Classification using NLP**  
-  [→ Repository](https://github.com/Sad3nwl/-News-Classification-using-NLP)  
-  Natural Language Processing application that classifies news articles into different categories using Machine Learning techniques.
+An Arabic Retrieval-Augmented Generation application that retrieves information from Wikipedia articles and generates source-grounded answers using LangChain, ChromaDB, and Streamlit.
 
-- **💬 Arabic Sentiment Analysis**  
-  [→ Repository](https://github.com/Sad3nwl/arabic-sentiment-analysiss)  
-  Arabic sentiment analysis using TF-IDF and classical machine learning to classify reviews into Positive, Negative, and Mixed sentiments.
+### 📊 CarInsight Dashboard
+[Repository](https://github.com/Sad3nwl/CarInsight-Dashboard)
 
-- **💊 Pharmacy Management System**  
-  [→ Repository](https://github.com/Sad3nwl/-Pharmacy-Management-System)  
-  A Java-based console application for managing pharmacy inventories and patient prescriptions, demonstrating core OOP principles (encapsulation, inheritance, polymorphism).
+Interactive automotive data analytics dashboard built with Python, Pandas, Plotly, and Streamlit, featuring KPIs, dynamic filters, and data visualizations.
 
----
+### 📰 News Classification using NLP
+[Repository](https://github.com/Sad3nwl/-News-Classification-using-NLP)
 
-### 🏆 Certifications & Leadership
+NLP-based text classification system that categorizes news articles using TF-IDF feature extraction and Machine Learning algorithms.
 
-- 🎤 **Event Organizer** at Al-Zaytoonah University of Jordan — Actively contributed to building the tech community and organizing technical events for students.
-- 🏅 **Microsoft Certified: Azure AI Fundamentals** – Microsoft
-- 🏅 **Python for Data Science, AI & Development** – IBM (Coursera)
-- 🏅 **Databases and SQL for Data Science with Python** – IBM (Coursera)
-- 🏅 **Data Analysis with Python** – IBM (Coursera)
-- 🏅 **Object Oriented Programming (OOP) Paradigm** – HTUx Platform
-- 🏅 **Introduction: Setup Development Environment** – HTUx Platform
+### 💬 Arabic Sentiment Analysis
+[Repository](https://github.com/Sad3nwl/arabic-sentiment-analysiss)
+
+Arabic text sentiment classification using Natural Language Processing and Machine Learning to identify Positive, Negative, and Mixed reviews.
+
+### 💊 Pharmacy Management System
+[Repository](https://github.com/Sad3nwl/-Pharmacy-Management-System)
+
+Java-based console application for managing pharmacy inventory and patient prescriptions, demonstrating Object-Oriented Programming concepts including encapsulation, inheritance, and polymorphism.
 
 ---
 
-### 📫 Let's Connect
+## 🏆 CERTIFICATIONS & LEADERSHIP
 
-I'm always open to collaborating on exciting AI/Data projects, discussing new technologies, or just having a chat about tech!
+- 🎤 **Event Organizer** — Al-Zaytoonah University of Jordan
+- 🏅 **Azure AI Certification** — IBM
+- 🏅 **Python for Data Science, AI & Development** — IBM | Coursera
+- 🏅 **Databases and SQL for Data Science with Python** — IBM | Coursera
+- 🏅 **Data Analysis with Python** — IBM | Coursera
+- 🏅 **Object-Oriented Programming Paradigm** — HTUx
+- 🏅 **Introduction: Setup Development Environment** — HTUx
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sadeenabdelrahman2@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+---
 
- 
- 
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sad3nwl&show_icons=true&hide_border=true&bg_color=020817&title_color=5DA9E9&icon_color=3B82F6&text_color=FFFFFF" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Sad3nwl&hide_border=true&background=020817&ring=5DA9E9&fire=3B82F6&currStreakLabel=5DA9E9&sideLabels=FFFFFF&dates=94A3B8" height="165"/>
+
+</div>
+
+---
+
+## 📫 LET'S CONNECT
+
+<div align="center">
+
+I'm always open to collaborating on AI and Data Science projects, exploring new technologies, and connecting with fellow developers.
+
+<a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sadeenabdelrahman2@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Sad3nwl">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Building intelligence, one project at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B70,100:020817&height=120&section=footer"/>
+
+</div>
