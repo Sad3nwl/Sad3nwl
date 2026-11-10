@@ -1,16 +1,136 @@
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020817,40:061B3A,60:003B70,80:07152B,100:000000&height=300&section=header&text=Sadeen%20Abdelalrahman&fontSize=62&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=5DA9E9&center=true&vCenter=true&width=800&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST" />
+
+</div>
+
+```bash
+╔════════════════════════════════════════════════════════════╗
+║  USER_ID      ▸  SADEEN                                    ║
+║  CLASS        ▸  ARTIFICIAL INTELLIGENCE                   ║
+║  UNIVERSITY   ▸  AL-ZAYTOONAH UNIVERSITY OF JORDAN         ║
+║  GPA          ▸  90.9 / 100                                ║
+║  LOCATION     ▸  AMMAN, JORDAN                             ║
+║  STATUS       ▸  ALWAYS LEARNING                           ║
+║  MISSION      ▸  TURNING DATA INTO INTELLIGENCE            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 👩‍💻 ABOUT ME
+
+I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student at **Al-Zaytoonah University of Jordan**, passionate about building intelligent solutions and transforming complex data into meaningful insights.
+
+I enjoy exploring the intersection of AI, data, and technology, turning ideas into practical projects that solve real-world problems.
+
+- 🎓 **Education:** B.Sc. in Artificial Intelligence & Data Science
+- 🏆 **Academic Achievement:** GPA 90.9 / 100
+- 🧠 **Interests:** Machine Learning, Data Science, NLP, Deep Learning, LLMs, RAG & Generative AI
+- 🔬 **Currently Exploring:** Advanced RAG, Explainable AI (XAI), and Deep Learning Architectures
+- 🚀 **Mindset:** Learn continuously. Build consistently. Improve endlessly.
+
+---
+
+## 🛠️ TECH STACK & TOOLS
+
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=cylinder&color=0:09090b,30:18181b,70:27272a,100:09090b&height=280&section=header&text=Sadeen%20Abdelalrahman&fontSize=54&fontColor=F4F4F5&fontAlignY=45&animation=fadeIn](https://capsule-render.vercel.app/api?type=cylinder&color=0:09090b,30:18181b,70:27272a,100:09090b&height=280&section=header&text=Sadeen%20Abdelalrahman&fontSize=54&fontColor=F4F4F5&fontAlignY=45&animation=fadeIn)" width="100%"/>
+| Category | Technologies |
+|:---|:---|
+| **Programming Languages** | Python · Java · SQL |
+| **Data Science & Analytics** | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI |
+| **AI & Machine Learning** | Scikit-learn · TensorFlow · LangChain |
+| **Development Tools** | PyCharm · Google Colab · Jupyter Notebook · Streamlit |
+| **Version Control** | Git · GitHub |
+| **Databases** | MySQL |
 
-<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%9A%A1+ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;%F0%9F%9A%80+MACHINE+LEARNING+%26+LLM+ENTHUSIAST;%F0%9F%92%BB+BUILDING+THE+FUTURE+OF+TECH](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%9A%A1+ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;%F0%9F%9A%80+MACHINE+LEARNING+%26+LLM+ENTHUSIAST;%F0%9F%92%BB+BUILDING+THE+FUTURE+OF+TECH)" />
+</div>
 
-```ansi
-┌──────────────────────────────────────────────────────────────┐
-│  USER_ID     ▸  SADEEN                                       │
-│  CLASS       ▸  ARTIFICIAL INTELLIGENCE                      │
-│  UNIVERSITY  ▸  AL-ZAYTOONAH UNIVERSITY OF JORDAN            │
-│  GPA         ▸  90.9 / 100                                   │
-│  LOCATION    ▸  AMMAN, JORDAN                                │
-│  STATUS      ▸  ALWAYS LEARNING                              │
-│  MISSION     ▸  TURNING DATA INTO INTELLIGENCE               │
-└──────────────────────────────────────────────────────────────┘
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🧠 Brain Tumor Detection & Explainable AI
+[Repository](https://github.com/Sad3nwl/Brain-Tumor-Detection)
+
+Deep Learning project for brain tumor classification using Transfer Learning with MobileNetV2, integrating Grad-CAM visualizations to improve model interpretability.
+
+### 🤖 Arabic RAG Wikipedia
+[Repository](https://github.com/Sad3nwl/arabic-rag-wikipedia)
+
+An Arabic Retrieval-Augmented Generation application that retrieves information from Wikipedia articles and generates source-grounded answers using LangChain, ChromaDB, and Streamlit.
+
+### 📊 CarInsight Dashboard
+[Repository](https://github.com/Sad3nwl/CarInsight-Dashboard)
+
+Interactive automotive data analytics dashboard built with Python, Pandas, Plotly, and Streamlit, featuring KPIs, dynamic filters, and data visualizations.
+
+### 📰 News Classification using NLP
+[Repository](https://github.com/Sad3nwl/-News-Classification-using-NLP)
+
+NLP-based text classification system that categorizes news articles using TF-IDF feature extraction and Machine Learning algorithms.
+
+### 💬 Arabic Sentiment Analysis
+[Repository](https://github.com/Sad3nwl/arabic-sentiment-analysiss)
+
+Arabic text sentiment classification using Natural Language Processing and Machine Learning to identify Positive, Negative, and Mixed reviews.
+
+### 💊 Pharmacy Management System
+[Repository](https://github.com/Sad3nwl/-Pharmacy-Management-System)
+
+Java-based console application for managing pharmacy inventory and patient prescriptions, demonstrating Object-Oriented Programming concepts including encapsulation, inheritance, and polymorphism.
+
+---
+
+## 🏆 CERTIFICATIONS & LEADERSHIP
+
+- 🎤 **Event Organizer** — Al-Zaytoonah University of Jordan
+- 🏅 **Azure AI Certification** — IBM
+- 🏅 **Python for Data Science, AI & Development** — IBM | Coursera
+- 🏅 **Databases and SQL for Data Science with Python** — IBM | Coursera
+- 🏅 **Data Analysis with Python** — IBM | Coursera
+- 🏅 **Object-Oriented Programming Paradigm** — HTUx
+- 🏅 **Introduction: Setup Development Environment** — HTUx
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sad3nwl&show_icons=true&hide_border=true&bg_color=020817&title_color=5DA9E9&icon_color=3B82F6&text_color=FFFFFF" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Sad3nwl&hide_border=true&background=020817&ring=5DA9E9&fire=3B82F6&currStreakLabel=5DA9E9&sideLabels=FFFFFF&dates=94A3B8" height="165"/>
+
+</div>
+
+---
+
+## 📫 LET'S CONNECT
+
+<div align="center">
+
+I'm always open to collaborating on AI and Data Science projects, exploring new technologies, and connecting with fellow developers.
+
+<a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sadeenabdelrahman2@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Sad3nwl">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Building intelligence, one project at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B70,100:020817&height=120&section=footer"/>
+
+</div>
