@@ -5,19 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=5DA9E9&center=true&vCenter=true&width=800&lines=ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA+SCIENCE;ASPIRING+AI+ENGINEER;MACHINE+LEARNING+ENTHUSIAST" />
 
 </div>
-
-```bash
-╔════════════════════════════════════════════════════════════╗
-║  USER_ID      ▸  SADEEN                                    ║
-║  CLASS        ▸  ARTIFICIAL INTELLIGENCE                   ║
-║  UNIVERSITY   ▸  AL-ZAYTOONAH UNIVERSITY OF JORDAN         ║
-║  GPA          ▸  90.9 / 100                                ║
-║  LOCATION     ▸  AMMAN, JORDAN                             ║
-║  STATUS       ▸  ALWAYS LEARNING                           ║
-║  MISSION      ▸  TURNING DATA INTO INTELLIGENCE            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
 ---
 
 <div align="center">
