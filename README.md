@@ -60,10 +60,13 @@ Arabic text sentiment classification using Natural Language Processing and Machi
 Java-based console application for managing pharmacy inventory and patient prescriptions, demonstrating Object-Oriented Programming concepts including encapsulation, inheritance, and polymorphism.
 
 ---
-<div align="center">
-  <img src="assets/achievements.svg" width="100%" alt="Certifications & Achievements"/>
-</div>
-
+ 🎤 Event Organizer — Al-Zaytoonah University of Jordan
+🏅 Azure AI Certification — IBM
+🏅 Python for Data Science, AI & Development — IBM | Coursera
+🏅 Databases and SQL for Data Science with Python — IBM | Coursera
+🏅 Data Analysis with Python — IBM | Coursera
+🏅 Object-Oriented Programming Paradigm — HTUx
+🏅 Introduction: Setup Development Environment — HTUx
 ---
 
 ## 📊 GITHUB ACTIVITY
