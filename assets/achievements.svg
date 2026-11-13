@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="340" viewBox="0 0 820 340" role="img" aria-label="Certifications, Leadership and Achievements">
+
+<style>
+:root {
+  --bg: #0b192c;
+  --fg: #e0f4ff;
+  --acc: #00b4d8;
+  --mut: #90e0ef;
+  --line: #1d3557;
+  --trk: #1e3a5f;
+}
+
+text {
+  font-family: 'Courier Prime', 'Special Elite', 'Courier New', Courier, monospace;
+  fill: var(--fg);
+}
+
+.mut { fill: var(--mut); }
+
+.fade {
+  opacity: 0;
+  animation: in .8s ease forwards;
+}
+
+@keyframes in { to { opacity: 1; } }
+
+.bd {
+  fill: none;
+  stroke: var(--acc);
+  stroke-width: 1.6;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: draw 2.2s ease forwards;
+}
+
+@keyframes draw { to { stroke-dashoffset: 0; } }
+
+.pill {
+  fill: none;
+  stroke: var(--mut);
+  stroke-width: 1;
+}
+
+.up {
+  animation: up .8s cubic-bezier(.2,.8,.2,1) both;
+}
+
+@keyframes up {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.pop {
+  animation: pop 2.6s ease-in-out infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+@keyframes pop {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.18); }
+}
+</style>
+
+<defs>
+  <radialGradient id="vg" cx=".5" cy=".5" r=".78">
+    <stop offset=".55" stop-color="#0077b6" stop-opacity="0" />
+    <stop offset="1" stop-color="#0077b6" stop-opacity=".25" />
+  </radialGradient>
+
+  <filter id="gr" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="7" />
+    <feColorMatrix values="0 0 0 0 .04 0 0 0 0 .1 0 0 0 0 .18 1.2 0 0 0 -.5" />
+  </filter>
+</defs>
+
+<!-- 1. Leadership: Event Organizer -->
+<g class="up" style="animation-delay:0.1s">
+  <rect x="10" y="10" width="190" height="152" rx="3" fill="#0b192c" />
+  <rect x="10" y="10" width="190" height="152" rx="3" fill="url(#vg)" />
+  <rect class="bd" pathLength="1" x="11" y="11" width="188" height="150" rx="3" style="stroke:#00b4d8" />
+  <rect x="15" y="15" width="180" height="142" rx="2" fill="none" stroke="#1d3557" stroke-width="1" />
+
+  <g transform="translate(26,24)">
+    <path fill="none" stroke="#e0f4ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M10 6 h12 v16 h-12 z" />
+    <path fill="none" stroke="#e0f4ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M16 22 v6 m-5 0 h10" />
+    <circle class="pop" cx="16" cy="14" r="3" fill="#00b4d8" />
+  </g>
+
+  <rect class="pill" x="138" y="24" width="50" height="20" rx="3" />
+  <text class="mut" style="font-size:9px" x="163" y="38" text-anchor="middle">LEAD</text>
+
+  <text style="font-size:12px;font-weight:700" x="26" y="86">Event Organizer</text>
+  <text class="mut" style="font-size:10px" x="26" y="102">Al-Zaytoonah Univ.</text>
+
+  <line x1="26" y1="118" x2="184" y2="118" stroke="#1d3557" />
+  <text class="mut" style="font-size:9px" x="26" y="136">University Leadership</text>
+
+  <rect x="10" y="10" width="190" height="152" rx="3" fill="#000" filter="url(#gr)" opacity=".4" />
+</g>
+
+<!-- 2. Azure AI Certification -->
+<g class="up" style="animation-delay:0.2s">
+  <rect x="210" y="10" width="190" height="152" rx="3" fill="#0b192c" />
+  <rect x="210" y="10" width="190" height="152" rx="3" fill="url(#vg)" />
+  <rect class="bd" pathLength="1" x="211" y="11" width="188" height="150" rx="3" style="stroke:#00b4d8" />
+  <rect x="215" y="15" width="180" height="142" rx="2" fill="none" stroke="#1d3557" stroke-width="1" />
+
+  <g transform="translate(226,24)">
+    <rect fill="none" stroke="#e0f4ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" x="2" y="6" width="28" height="20" rx="3" />
+    <circle class="pop" cx="24" cy="22" r="5" fill="#0b192c" stroke="#00b4d8" stroke-width="1.5" />
+  </g>
+
+  <rect class="pill" x="342" y="24" width="46" height="20" rx="3" />
+  <text class="mut" style="font-size:9px" x="365" y="38" text-anchor="middle">CERT</text>
+
+  <text style="font-size:12px;font-weight:700" x="226" y="86">Azure AI Cert.</text>
+  <text class="mut" style="font-size:10px" x="226" y="102">Microsoft / IBM</text>
+
+  <line x1="226" y1="118" x2="384" y2="118" stroke="#1d3557" />
+  <text class="mut" style="font-size:9px" x="226" y="136">Cloud & AI</text>
+
+  <rect x="210" y="10" width="190" height="152" rx="3" fill="#000" filter="url(#gr)" opacity=".4" />
+</g>
+
+<!-- 3. Python for Data Science -->
+<g class="up" style="animation-delay:0.3s">
+  <rect x="410" y="10" width="190" height="152" rx="3" fill="#0b192c" />
+  <rect x="410" y="10" width="190" height="152" rx="3" fill="url(#vg)" />
+  <rect class="bd" pathLength="1" x="411" y="11" width="188" height="150" rx="3" style="stroke:#00b4d8" />
+  <rect x="415" y="15" width="180" height="142" rx="2" fill="none" stroke="#1d3557" stroke-width="1" />
+
+  <g transform="translate(426,24)">
+    <path fill="none" stroke="#e0f4ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M12 4 C6 4 6 9 6 12 C6 15 8 16 12 16 H18 C22 16 24 18 24 21 C24 24 22 28 16 28 C10 28 10 24 10 24" />
+  </g>
+
+  <rect class="pill" x="542" y="24" width="46" height="20" rx="3" />
+  <text class="mut" style="font-size:9px" x="565" y="38" text-anchor="middle">CERT</text>
+
+  <text style="font-size:12px;font-weight:700" x="426" y="80">Python for Data</text>
+  <text style="font-size:12px;font-weight:700" x="426" y="96">Science, AI & Dev</text>
+
+  <line x1="426" y1="118" x2="584" y2="118" stroke="#1d3557" />
+  <text class="mut" style="font-size:9px" x="426" y="136">IBM | Coursera</text>
+
+  <rect x="410" y="10" width="190" height="152" rx="3" fill="#000" filter="url(#gr)" opacity=".4" />
+</g>
+
+<!-- 4. Databases and SQL for Data Science -->
+<g class="up" style="animation-delay:0.4s">
+  <rect x="610" y="10" width="190" height="152" rx="3" fill="#0b192c" />
+  <rect x="610" y="10" width="190" height="152" rx="3" fill="url(#vg)" />
+  <rect class="bd" pathLength="1" x="611" y="11" width="188" height="150" rx="3" style="stroke:#00b4d8" />
+  <rect x="615" y="15" width="180" height="142" rx="2" fill="none" stroke="#1d3557" stroke-width="1" />
+
+  <g transform="translate(626,24)">
+    <ellipse cx="15" cy="8" rx="10" ry="4" fill="none" stroke="#e0f4ff" stroke-width="1.8" />
+    <path fill="none" stroke="#e0f4ff" stroke-width="1.8" d="M5 8 v12 c0 2.2 4.5 4 10 4 s10-1.8 10-4 V8" />
+  </g>
+
+  <rect class="pill" x="742" y="24" width="46" height="20" rx="3" />
+  <text class="mut" style="font-size:9px" x="765" y="38" text-anchor="middle">CERT</text>
+
+  <text style="font-size:12px;font-weight:700" x="626" y="80">Databases & SQL</text>
+  <text style="font-size:12px;font-weight:700" x="626" y="96">for Data Science</text>
+
+  <line x1="626" y1="118" x2="784" y2="118" stroke="#1d3557" />
+  <text class="mut" style="font-size:9px" x="626" y="136">IBM | Coursera</text>
+
+  <rect x="610" y="10" width="190" height="152" rx="3" fill="#000" filter="url(#gr)" opacity=".4" />
+</g>
+
+<!-- 5. Data Analysis with Python -->
+<g class="up" style="animation-delay:0.5s">
+  <rect x="10" y="174" width="190" height="152" rx="3" fill="#0b192c" />
+  <rect x="10" y="174" width="190" height="152" rx="3" fill="url(#vg)" />
+  <rect class="bd" pathLength="1" x="11" y="175" width="188" height="150" rx="3" style="stroke:#00b4d8" />
+  <rect x="15" y="179" width="180" height="142" rx="2" fill="none" stroke="#1d3557" stroke-width="1" />
+
+  <g transform="translate(26,188)">
+    <rect fill="none" stroke="#e0f4ff" stroke-width="1.8" x="4" y="4" width="24" height="20" rx="2" />
+    <path fill="none" stroke="#e0f4ff" stroke-width="1.8" d="M8 18 l4 -6 l5 4 l6 -8" />
+  </g>
+
+  <rect class="pill" x="138" y="188" width="50" height="20" rx="3" />
+  <text class="mut" style="font-size:9px" x="163" y="202" text-anchor="middle">CERT</text>
+
+  <text style="font-size:12px;font-weight:700" x="26" y="250">Data Analysis</text>
+  <text style="font-size:12px;font-weight:700" x="26" y="266">with Python</text>
+
+  <line x1="26" y1="282" x2="184" y2="282" stroke="#1d3557" />
+  <text class="mut" style="font-size:9px" x="26" y="300">IBM | Coursera</text>
+
+  <rect x="10" y="174" width="190" height="152" rx="3" fill="#000" filter="url(#gr)" opacity=".4" />
+</g>
+
+<!-- 6. Object-Oriented Programming Paradigm -->
+<g class="up" style="animation-delay:0.6s">
+  <rect x="210" y="174" width="190" height="152" rx="3" fill="#0b192c" />
+  <rect x="210" y="174" width="190" height="152" rx="3" fill="url(#vg)" />
+  <rect class="bd" pathLength="1" x="211" y="175" width="188" height="150" rx="3" style="stroke:#00b4d8" />
+  <rect x="215" y="179" width="180" height="142" rx="2" fill="none" stroke="#1d3557" stroke-width="1" />
+
+  <g transform="translate(226,188)">
+    <circle cx="10" cy="10" r="6" fill="none" stroke="#e0f4ff" stroke-width="1.8" />
+    <circle cx="22" cy="20" r="6" fill="none" stroke="#e0f4ff" stroke-width="1.8" />
+    <line x1="14" y1="13" x2="18" y2="17" stroke="#e0f4ff" stroke-width="1.8" />
+  </g>
+
+  <rect class="pill" x="342" y="188" width="46" height="20" rx="3" />
+  <text class="mut" style="font-size:9px" x="365" y="202" text-anchor="middle">CERT</text>
+
+  <text style="font-size:12px;font-weight:700" x="226" y="250">Object-Oriented</text>
+  <text style="font-size:12px;font-weight:700" x="226" y="266">Programming</text>
+
+  <line x1="226" y1="282" x2="384" y2="282" stroke="#1d3557" />
+  <text class="mut" style="font-size:9px" x="226" y="300">HTUx</text>
+
+  <rect x="210" y="174" width="190" height="152" rx="3" fill="#000" filter="url(#gr)" opacity=".4" />
+</g>
+
+<!-- 7. Introduction: Setup Development Environment -->
+<g class="up" style="animation-delay:0.7s">
+  <rect x="410" y="174" width="190" height="152" rx="3" fill="#0b192c" />
+  <rect x="410" y="174" width="190" height="152" rx="3" fill="url(#vg)" />
+  <rect class="bd" pathLength="1" x="411" y="175" width="188" height="150" rx="3" style="stroke:#00b4d8" />
+  <rect x="415" y="179" width="180" height="142" rx="2" fill="none" stroke="#1d3557" stroke-width="1" />
+
+  <g transform="translate(426,188)">
+    <rect fill="none" stroke="#e0f4ff" stroke-width="1.8" x="2" y="6" width="28" height="20" rx="3" />
+    <path fill="none" stroke="#e0f4ff" stroke-width="1.8" d="M10 14 L14 17 L10 20 M16 20 H22" />
+  </g>
+
+  <rect class="pill" x="542" y="188" width="46" height="20" rx="3" />
+  <text class="mut" style="font-size:9px" x="565" y="202" text-anchor="middle">CERT</text>
+
+  <text style="font-size:12px;font-weight:700" x="426" y="250">Dev Environment</text>
+  <text style="font-size:12px;font-weight:700" x="426" y="266">Setup</text>
+
+  <line x1="426" y1="282" x2="584" y2="282" stroke="#1d3557" />
+  <text class="mut" style="font-size:9px" x="426" y="300">HTUx</text>
+
+  <rect x="410" y="174" width="190" height="152" rx="3" fill="#000" filter="url(#gr)" opacity=".4" />
+</g>
+
+</svg>
