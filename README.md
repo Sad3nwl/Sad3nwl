@@ -20,18 +20,9 @@
 
 ---
 
-## 👩‍💻 ABOUT ME
-
-I'm **Sadeen Abdelalrahman**, an Artificial Intelligence & Data Science student at **Al-Zaytoonah University of Jordan**, passionate about building intelligent solutions and transforming complex data into meaningful insights.
-
-I enjoy exploring the intersection of AI, data, and technology, turning ideas into practical projects that solve real-world problems.
-
-- 🎓 **Education:** B.Sc. in Artificial Intelligence & Data Science
-- 🏆 **Academic Achievement:** GPA 90.9 / 100
-- 🧠 **Interests:** Machine Learning, Data Science, NLP, Deep Learning, LLMs, RAG & Generative AI
-- 🔬 **Currently Exploring:** Advanced RAG, Explainable AI (XAI), and Deep Learning Architectures
-- 🚀 **Mindset:** Learn continuously. Build consistently. Improve endlessly.
-
+<div align="center">
+  <img src="assets/about.svg" width="100%" alt="About Sadeen"/>
+</div>
 ---
 
 ## 🛠️ TECH STACK & TOOLS
