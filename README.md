@@ -10,20 +10,7 @@
 </div>
 ---
 
-## 🛠️ TECH STACK & TOOLS
-
-<div align="center">
-
-| Category | Technologies |
-|:---|:---|
-| **Programming Languages** | Python · Java · SQL |
-| **Data Science & Analytics** | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI |
-| **AI & Machine Learning** | Scikit-learn · TensorFlow · LangChain |
-| **Development Tools** | PyCharm · Google Colab · Jupyter Notebook · Streamlit |
-| **Version Control** | Git · GitHub |
-| **Databases** | MySQL |
-
-</div>
+<img src="assets/tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
 
 ---
 
