@@ -60,7 +60,8 @@ Arabic text sentiment classification using Natural Language Processing and Machi
 Java-based console application for managing pharmacy inventory and patient prescriptions, demonstrating Object-Oriented Programming concepts including encapsulation, inheritance, and polymorphism.
 
 ---
-
+<img src="assets/certifications.svg" width="100%" alt="Certifications and Leadership"/>
+ 
 
 ## 📊 GITHUB ACTIVITY
 
