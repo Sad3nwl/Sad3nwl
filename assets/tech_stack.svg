@@ -75,17 +75,18 @@
 <circle cx="252" cy="165" r="3" class="cyan pulse"></circle>
 </g>
 
-<!-- Card 2 -->
+
+<!-- Card 2: Data Science & Analytics -->
 <g class="item" style="animation-delay:.4s">
-<rect class="card" x="285" y="148" width="250" height="112" rx="5"></rect>
-<path class="edge" d="M285 176V153Q285 148 290 148H315"></path>
-<text x="301" y="171" class="small muted">02 / DATA</text>
-<text x="301" y="195" class="category">DATA SCIENCE &amp; ANALYTICS</text>
-<path d="M301 205H519" stroke="#17466C"></path>
-<text x="301" y="226" class="tech">Pandas · NumPy</text>
-<text x="301" y="244" class="tech">Matplotlib · Seaborn</text>
-<text x="450" y="244" class="tech">Plotly · Power BI</text>
-<circle cx="517" cy="165" r="3" class="cyan pulse"></circle>
+  <rect class="card" x="285" y="148" width="250" height="112" rx="5"/>
+  <path class="edge" d="M285 176V153Q285 148 290 148H315"/>
+  <text x="301" y="171" class="small muted">02 / DATA</text>
+  <text x="301" y="195" class="category">DATA SCIENCE &amp; ANALYTICS</text>
+  <path d="M301 205H519" stroke="#17466C"/>
+  <text x="301" y="225" class="tech">Pandas · NumPy · Plotly</text>
+  <text x="301" y="243" class="tech">Matplotlib · Seaborn</text>
+  <text x="301" y="257" font-size="11" fill="#42D9FF">Power BI</text>
+  <circle cx="517" cy="165" r="3" class="cyan pulse"/>
 </g>
 
 <!-- Card 3 -->
