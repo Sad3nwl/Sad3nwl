@@ -10,7 +10,7 @@
 </div>
 ---
 
-<img src="assets/tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
+<img src="assets/tech_stack.svg" width="90%" alt="Animated Tech Stack Dashboard"/>
 
 ---
 
