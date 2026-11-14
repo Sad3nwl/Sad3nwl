@@ -1,0 +1,151 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="490" viewBox="0 0 820 490" role="img" aria-label="Animated Tech Stack Dashboard">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1">
+    <stop stop-color="#030B19"></stop>
+    <stop offset="1" stop-color="#0A2040"></stop>
+  </linearGradient>
+  <linearGradient id="neon" x2="1">
+    <stop stop-color="#0877C9"></stop>
+    <stop offset="1" stop-color="#42D9FF"></stop>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#1A4971" stroke-width=".6" opacity=".45"></path>
+  </pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+    <feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+  </filter>
+  <style>
+    text{font-family:'Courier New',monospace;fill:#E5F4FF}
+    .muted{fill:#799DBD}
+    .cyan{fill:#42D9FF}
+    .category{font-size:11px;font-weight:bold;letter-spacing:1px;fill:#63CFFF}
+    .tech{font-size:13px}
+    .small{font-size:9px;letter-spacing:1px}
+    .card{fill:#091A30;stroke:#18517B;stroke-width:1}
+    .edge{fill:none;stroke:#42D9FF;stroke-width:1.4;filter:url(#glow)}
+    .item{opacity:0;animation:appear .7s ease forwards}
+    @keyframes appear{to{opacity:1}}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.25}}
+    .scan{animation:scan 5s linear infinite}
+    @keyframes scan{from{transform:translateY(0)}to{transform:translateY(420px)}}
+    .blink{animation:blink 1s steps(2) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .flow{stroke-dasharray:5 7;animation:flow 8s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-120}}
+    .bar{transform-box:fill-box;transform-origin:left;animation:load 3s ease-in-out infinite}
+    @keyframes load{0%{transform:scaleX(0)}65%,100%{transform:scaleX(1)}}
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="820" height="490" rx="10" fill="url(#bg)"></rect>
+<rect width="820" height="490" rx="10" fill="url(#grid)"></rect>
+<rect x="0" y="0" width="820" height="490" fill="#07172B" opacity=".12"></rect>
+<path d="M0 110H820" stroke="#1B4D76" opacity=".4"></path>
+<path d="M0 430H820" stroke="#1B4D76" opacity=".4"></path>
+
+<!-- Header -->
+<text x="24" y="34" font-size="18" font-weight="bold" letter-spacing="2">TECH_STACK.exe</text>
+<text x="795" y="33" text-anchor="end" class="small muted">SYSTEM // TOOLKIT</text>
+<circle cx="782" cy="54" r="3" class="cyan pulse"></circle>
+<text x="795" y="57" text-anchor="end" class="small cyan">ONLINE</text>
+<path d="M20 70H800" stroke="url(#neon)" stroke-width="1.5" filter="url(#glow)"></path>
+
+<!-- Terminal -->
+<rect x="20" y="84" width="780" height="48" rx="4" fill="#04101F" stroke="#17466C"></rect>
+<circle cx="36" cy="99" r="3" fill="#42D9FF"></circle>
+<circle cx="47" cy="99" r="3" fill="#1C79B5"></circle>
+<circle cx="58" cy="99" r="3" fill="#17466C"></circle>
+<text x="75" y="103" class="small muted">INITIALIZING DEVELOPER ENVIRONMENT...</text>
+<text x="36" y="120" class="small cyan">[ READY ] Python · Data Science · AI · Development</text>
+<rect x="451" y="110" width="6" height="12" fill="#42D9FF" class="blink"></rect>
+
+<!-- Card 1 -->
+<g class="item" style="animation-delay:.2s">
+<rect class="card" x="20" y="148" width="250" height="112" rx="5"></rect>
+<path class="edge" d="M20 176V153Q20 148 25 148H50"></path>
+<text x="36" y="171" class="small muted">01 / CODE</text>
+<text x="36" y="195" class="category">PROGRAMMING LANGUAGES</text>
+<path d="M36 205H254" stroke="#17466C"></path>
+<text x="36" y="229" class="tech">Python  ·  Java</text>
+<text x="36" y="247" class="tech">SQL</text>
+<circle cx="252" cy="165" r="3" class="cyan pulse"></circle>
+</g>
+
+<!-- Card 2 -->
+<g class="item" style="animation-delay:.4s">
+<rect class="card" x="285" y="148" width="250" height="112" rx="5"></rect>
+<path class="edge" d="M285 176V153Q285 148 290 148H315"></path>
+<text x="301" y="171" class="small muted">02 / DATA</text>
+<text x="301" y="195" class="category">DATA SCIENCE &amp; ANALYTICS</text>
+<path d="M301 205H519" stroke="#17466C"></path>
+<text x="301" y="226" class="tech">Pandas · NumPy</text>
+<text x="301" y="244" class="tech">Matplotlib · Seaborn</text>
+<text x="450" y="244" class="tech">Plotly · Power BI</text>
+<circle cx="517" cy="165" r="3" class="cyan pulse"></circle>
+</g>
+
+<!-- Card 3 -->
+<g class="item" style="animation-delay:.6s">
+<rect class="card" x="550" y="148" width="250" height="112" rx="5"></rect>
+<path class="edge" d="M550 176V153Q550 148 555 148H580"></path>
+<text x="566" y="171" class="small muted">03 / INTELLIGENCE</text>
+<text x="566" y="195" class="category">AI &amp; MACHINE LEARNING</text>
+<path d="M566 205H784" stroke="#17466C"></path>
+<text x="566" y="229" class="tech">Scikit-learn</text>
+<text x="566" y="247" class="tech">TensorFlow · LangChain</text>
+<circle cx="782" cy="165" r="3" class="cyan pulse"></circle>
+</g>
+
+<!-- Card 4 -->
+<g class="item" style="animation-delay:.8s">
+<rect class="card" x="20" y="275" width="250" height="112" rx="5"></rect>
+<path class="edge" d="M20 303V280Q20 275 25 275H50"></path>
+<text x="36" y="298" class="small muted">04 / WORKSPACE</text>
+<text x="36" y="322" class="category">DEVELOPMENT TOOLS</text>
+<path d="M36 332H254" stroke="#17466C"></path>
+<text x="36" y="354" class="tech">PyCharm · Google Colab</text>
+<text x="36" y="374" class="tech">Jupyter Notebook · Streamlit</text>
+<circle cx="252" cy="292" r="3" class="cyan pulse"></circle>
+</g>
+
+<!-- Card 5 -->
+<g class="item" style="animation-delay:1s">
+<rect class="card" x="285" y="275" width="250" height="112" rx="5"></rect>
+<path class="edge" d="M285 303V280Q285 275 290 275H315"></path>
+<text x="301" y="298" class="small muted">05 / COLLABORATION</text>
+<text x="301" y="322" class="category">VERSION CONTROL</text>
+<path d="M301 332H519" stroke="#17466C"></path>
+<text x="301" y="359" class="tech">Git</text>
+<text x="390" y="359" class="tech">GitHub</text>
+<circle cx="517" cy="292" r="3" class="cyan pulse"></circle>
+</g>
+
+<!-- Card 6 -->
+<g class="item" style="animation-delay:1.2s">
+<rect class="card" x="550" y="275" width="250" height="112" rx="5"></rect>
+<path class="edge" d="M550 303V280Q550 275 555 275H580"></path>
+<text x="566" y="298" class="small muted">06 / STORAGE</text>
+<text x="566" y="322" class="category">DATABASES</text>
+<path d="M566 332H784" stroke="#17466C"></path>
+<text x="566" y="359" class="tech">MySQL</text>
+<circle cx="782" cy="292" r="3" class="cyan pulse"></circle>
+</g>
+
+<!-- Footer status -->
+<rect x="20" y="402" width="780" height="43" rx="4" fill="#04101F" stroke="#17466C"></rect>
+<text x="35" y="420" class="small muted">SYSTEM STATUS</text>
+<text x="35" y="435" class="small cyan">ALL MODULES LOADED</text>
+<rect x="220" y="417" width="110" height="5" rx="2" fill="#153552"></rect>
+<rect x="220" y="417" width="110" height="5" rx="2" fill="url(#neon)" class="bar"></rect>
+<text x="790" y="429" text-anchor="end" class="small cyan">READY TO BUILD_</text>
+
+<text x="22" y="472" class="small muted">LEARN // EXPLORE // BUILD // INNOVATE</text>
+<text x="798" y="472" text-anchor="end" class="small cyan">S.A. 2026</text>
+
+<!-- Moving scan light -->
+<rect x="0" y="0" width="820" height="2" fill="#42D9FF" opacity=".13" class="scan"></rect>
+</svg>
