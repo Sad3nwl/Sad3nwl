@@ -10,38 +10,9 @@
 <img src="assets/tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
 ---
 
-## 🚀 FEATURED PROJECTS
-
-### 🧠 Brain Tumor Detection & Explainable AI
-[Repository](https://github.com/Sad3nwl/Brain-Tumor-Detection)
-
-Deep Learning project for brain tumor classification using Transfer Learning with MobileNetV2, integrating Grad-CAM visualizations to improve model interpretability.
-
-### 🤖 Arabic RAG Wikipedia
-[Repository](https://github.com/Sad3nwl/arabic-rag-wikipedia)
-
-An Arabic Retrieval-Augmented Generation application that retrieves information from Wikipedia articles and generates source-grounded answers using LangChain, ChromaDB, and Streamlit.
-
-### 📊 CarInsight Dashboard
-[Repository](https://github.com/Sad3nwl/CarInsight-Dashboard)
-
-Interactive automotive data analytics dashboard built with Python, Pandas, Plotly, and Streamlit, featuring KPIs, dynamic filters, and data visualizations.
-
-### 📰 News Classification using NLP
-[Repository](https://github.com/Sad3nwl/-News-Classification-using-NLP)
-
-NLP-based text classification system that categorizes news articles using TF-IDF feature extraction and Machine Learning algorithms.
-
-### 💬 Arabic Sentiment Analysis
-[Repository](https://github.com/Sad3nwl/arabic-sentiment-analysiss)
-
-Arabic text sentiment classification using Natural Language Processing and Machine Learning to identify Positive, Negative, and Mixed reviews.
-
-### 💊 Pharmacy Management System
-[Repository](https://github.com/Sad3nwl/-Pharmacy-Management-System)
-
-Java-based console application for managing pharmacy inventory and patient prescriptions, demonstrating Object-Oriented Programming concepts including encapsulation, inheritance, and polymorphism.
-
+<p align="center">
+  <img src="assets/featured_projects.svg" width="100%" alt="Featured Projects"/>
+</p>
 ---
 <img src="assets/certifications.svg" width="100%" alt="Certifications and Leadership"/>
  
