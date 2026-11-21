@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020817,40:061B3A,60:003B70,80:07152B,100:000000&height=300&section=header&text=Sadeen%20Abdelalrahman&fontSize=62&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%"/>
 </div>
 ---
-
 <div align="center">
   <img src="assets/about.svg" width="100%" alt="About Sadeen"/>
 </div>
