@@ -8,7 +8,6 @@
 ---
 <img src="assets/tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
 ---
-
 <p align="center">
   <img src="assets/featured_projects.svg" width="100%" alt="Featured Projects"/>
 </p>
