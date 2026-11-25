@@ -1,0 +1,150 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="280" viewBox="0 0 1100 280">
+
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8BE9FF"></stop>
+      <stop offset="50%" stop-color="#168BFF"></stop>
+      <stop offset="100%" stop-color="#0050FF"></stop>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12"></feGaussianBlur>
+    </filter>
+
+    <linearGradient id="robotBody" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E7F8FF"></stop>
+      <stop offset="40%" stop-color="#6CAEDC"></stop>
+      <stop offset="100%" stop-color="#102C65"></stop>
+    </linearGradient>
+
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#102D59"></stop>
+      <stop offset="100%" stop-color="#020817"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1100" height="280" rx="20" fill="#020817"></rect>
+
+  <!-- Digital grid -->
+  <g stroke="#087BFF" opacity="0.12">
+    <path d="M0 55H1100 M0 110H1100 M0 165H1100 M0 220H1100"></path>
+    <path d="M100 0V280 M200 0V280 M300 0V280
+             M400 0V280 M500 0V280 M600 0V280
+             M700 0V280 M800 0V280 M900 0V280
+             M1000 0V280"></path>
+  </g>
+
+  <!-- Background light -->
+  <ellipse cx="420" cy="135" rx="350" ry="75" fill="#006AFF" opacity="0.09" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.04;0.14;0.04" dur="4s" repeatCount="indefinite"></animate>
+  </ellipse>
+
+  <!-- Decorative particles -->
+  <g fill="#42C8FF">
+    <circle cx="80" cy="65" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"></animate>
+    </circle>
+    <circle cx="760" cy="45" r="2">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"></animate>
+    </circle>
+    <circle cx="680" cy="220" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"></animate>
+    </circle>
+  </g>
+
+  <!-- Name -->
+  <g filter="url(#glow)">
+    <text x="95" y="140" font-family="Arial, sans-serif" font-size="66" font-weight="bold" letter-spacing="2" fill="url(#blue)">
+      Sadeen
+    </text>
+
+    <text x="95" y="205" font-family="Arial, sans-serif" font-size="45" font-weight="bold" letter-spacing="5" fill="#D6F4FF">
+      ABDELRAHMAN
+    </text>
+  </g>
+
+  <!-- Underline -->
+  <path d="M95 225 H570" stroke="#168BFF" stroke-width="2" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" values="0 475;475 0" dur="3s" repeatCount="indefinite"></animate>
+  </path>
+
+  <!-- Robot floating animation -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="3s" repeatCount="indefinite"></animateTransform>
+
+    <!-- Robot antenna -->
+    <path d="M825 65 V42" stroke="#48CFFF" stroke-width="4" stroke-linecap="round"></path>
+    <circle cx="825" cy="35" r="7" fill="#4BD9FF" filter="url(#glow)">
+      <animate attributeName="r" values="5;9;5" dur="1.5s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <!-- Robot ears -->
+    <rect x="754" y="102" width="20" height="52" rx="8" fill="#2376BC"></rect>
+    <rect x="876" y="102" width="20" height="52" rx="8" fill="#2376BC"></rect>
+
+    <!-- Head -->
+    <rect x="768" y="65" width="114" height="115" rx="30" fill="url(#robotBody)" stroke="#72DFFF" stroke-width="2" filter="url(#glow)"></rect>
+
+    <!-- Face screen -->
+    <rect x="780" y="88" width="90" height="65" rx="20" fill="url(#face)" stroke="#38BFFF" stroke-width="2"></rect>
+
+    <!-- Eyes -->
+    <g fill="#52E1FF" filter="url(#glow)">
+      <ellipse cx="805" cy="119" rx="8" ry="11">
+        <animate attributeName="ry" values="11;1;11" keyTimes="0;0.08;0.16" dur="4s" repeatCount="indefinite"></animate>
+      </ellipse>
+      <ellipse cx="845" cy="119" rx="8" ry="11">
+        <animate attributeName="ry" values="11;1;11" keyTimes="0;0.08;0.16" dur="4s" repeatCount="indefinite"></animate>
+      </ellipse>
+    </g>
+
+    <!-- Smile -->
+    <path d="M808 137 Q825 150 842 137" fill="none" stroke="#42DFFF" stroke-width="3" stroke-linecap="round"></path>
+
+    <!-- Body -->
+    <rect x="787" y="182" width="76" height="48" rx="17" fill="url(#robotBody)" stroke="#4DCFFF" stroke-width="2"></rect>
+
+    <circle cx="825" cy="204" r="9" fill="#0B5AFF" stroke="#7AE8FF" stroke-width="2">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"></animate>
+    </circle>
+
+    <!-- Arms -->
+    <g stroke="#55CFFF" stroke-width="9" stroke-linecap="round" fill="none">
+      <path d="M787 194 L766 212"></path>
+      <path d="M863 194 L883 178">
+        <animateTransform attributeName="transform" type="rotate" values="0 863 194;-20 863 194;0 863 194" dur="2s" repeatCount="indefinite"></animateTransform>
+      </path>
+    </g>
+
+    <!-- Legs -->
+    <path d="M805 229 V245 M845 229 V245" stroke="#68CFFF" stroke-width="10" stroke-linecap="round"></path>
+
+    <!-- Robot shadow -->
+    <ellipse cx="825" cy="258" rx="48" ry="5" fill="#087BFF" opacity="0.3">
+      <animate attributeName="rx" values="48;35;48" dur="3s" repeatCount="indefinite"></animate>
+    </ellipse>
+  </g>
+
+  <!-- Decorative side circuit -->
+  <g fill="none" stroke="#168BFF" stroke-width="2" opacity="0.7">
+    <path d="M950 75 H1000 V110 H1040"></path>
+    <path d="M950 190 H990 V165 H1040"></path>
+    <circle cx="1040" cy="110" r="4" fill="#42CFFF"></circle>
+    <circle cx="1040" cy="165" r="4" fill="#42CFFF"></circle>
+  </g>
+
+  <!-- Bottom label -->
+  <text x="95" y="258" fill="#4E9CCB" font-family="monospace" font-size="12" letter-spacing="4">
+    ARTIFICIAL INTELLIGENCE  //  DATA SCIENCE
+  </text>
+</svg>
