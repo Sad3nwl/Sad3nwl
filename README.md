@@ -5,7 +5,7 @@
 </div>
 ---
 <div align="center">
-  <img src="assets/about.svg" width="100%" alt="About Sadeen"/>
+  <img src="assets/about1.svg" width="100%" alt="About Sadeen"/>
 </div>
 ---
 <img src="assets/tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
