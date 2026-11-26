@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="560" viewBox="0 0 920 560" role="img" aria-label="Certifications and Leadership">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="48%" r="75%">
+    <stop offset="0" stop-color="#171b20"/><stop offset=".52" stop-color="#090b0e"/><stop offset="1" stop-color="#020304"/>
+  </radialGradient>
+  <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f5f7f9"/><stop offset=".48" stop-color="#68727c"/><stop offset="1" stop-color="#d8dfe5"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2026" stop-opacity=".96"/><stop offset="1" stop-color="#080a0d" stop-opacity=".98"/>
+  </linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.2" cy="1.2" r=".8" fill="#aab4be" opacity=".13"/>
+  </pattern>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif;fill:#edf1f4}
+    .muted{fill:#858f99}.silver{fill:#c4ccd4}.white{fill:#f6f7f8}
+    .micro{font-size:9px;letter-spacing:1.8px}
+    .heading{font-size:12px;letter-spacing:.35px;font-weight:700;fill:#e6ebef}
+    .issuer{font-size:9px;fill:#c4ccd4;letter-spacing:1.15px}
+    .tag{font-size:8.5px;fill:#858f99;letter-spacing:1.2px}
+    .panel{fill:url(#glass);stroke:#737e89;stroke-opacity:.68;stroke-width:1.1}
+    .edge{fill:none;stroke:url(#chrome);stroke-width:1.2;stroke-dasharray:38 460;opacity:.7;animation:edge 7s linear infinite}
+    .entry{opacity:0;animation:rise .75s ease forwards}
+    .e1{animation-delay:.1s}.e2{animation-delay:.22s}.e3{animation-delay:.34s}
+    .e4{animation-delay:.46s}.e5{animation-delay:.58s}.e6{animation-delay:.7s}.e7{animation-delay:.82s}
+    .pulse{animation:pulse 2.6s ease-in-out infinite}
+    .scan{animation:scan 7s ease-in-out infinite}
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+    @keyframes edge{to{stroke-dashoffset:-498}}
+    @keyframes scan{0%{transform:translateY(0);opacity:0}20%{opacity:.25}80%{opacity:.25}100%{transform:translateY(460px);opacity:0}}
+  </style>
+</defs>
+<rect width="920" height="560" rx="30" fill="url(#bg)"/>
+<rect width="920" height="560" rx="30" fill="url(#dots)"/>
+<ellipse cx="460" cy="282" rx="360" ry="235" fill="#c5d0db" opacity=".045" filter="url(#soft)"/>
+<rect x="1.5" y="1.5" width="917" height="557" rx="29" fill="none" stroke="#8d98a3" stroke-opacity=".42"/>
+
+<!-- Header -->
+<text x="42" y="45" font-size="17" font-weight="700" letter-spacing="2.5" class="white">CERTIFICATIONS &amp; LEADERSHIP</text>
+<text x="878" y="44" text-anchor="end" class="micro muted">SADEEN ABDELALRAHMAN / MILESTONES</text>
+<g transform="translate(42 75)">
+  <circle cx="3" cy="0" r="3.5" fill="#e5eaf0" class="pulse" filter="url(#glow)"/>
+  <text x="16" y="4" class="micro silver">CONTINUOUS LEARNING · PROFESSIONAL GROWTH</text>
+</g>
+<text x="878" y="79" text-anchor="end" class="micro silver">07 ACHIEVEMENTS</text>
+<path d="M42 96H878" stroke="#7d8994" stroke-opacity=".4"/>
+
+<!-- Leadership feature -->
+<g class="entry e1">
+ <path d="M42 125Q42 111 56 111H246Q260 111 260 125V443Q260 457 246 457H56Q42 457 42 443Z" class="panel"/>
+ <path d="M58 112H126" stroke="url(#chrome)" stroke-width="1.5" opacity=".8"/>
+ <text x="62" y="145" class="micro muted">01 / LEADERSHIP</text>
+ <circle cx="151" cy="225" r="57" fill="none" stroke="#8d98a3" stroke-opacity=".22"/>
+ <circle cx="151" cy="225" r="45" fill="none" stroke="url(#chrome)" stroke-opacity=".55" stroke-dasharray="52 15 8 15"/>
+ <path d="M151 192L159 216L184 225L159 234L151 258L143 234L118 225L143 216Z" fill="none" stroke="url(#chrome)" stroke-width="1.5"/>
+ <circle cx="151" cy="225" r="4" fill="#f5f7f9" filter="url(#glow)" class="pulse"/>
+ <path d="M62 294H240" stroke="#737e89" stroke-opacity=".4"/>
+ <text x="62" y="331" class="heading" font-size="15">Event Organizer</text>
+ <text x="62" y="361" class="issuer">AL-ZAYTOONAH</text>
+ <text x="62" y="378" class="issuer">UNIVERSITY</text>
+ <text x="62" y="427" class="tag">LEADERSHIP EXPERIENCE</text>
+ <text x="240" y="445" text-anchor="end" class="micro silver">01</text>
+ <path class="edge" d="M42 125Q42 111 56 111H246Q260 111 260 125V443Q260 457 246 457H56Q42 457 42 443Z"/>
+</g>
+
+<!-- Credential cards -->
+<g class="entry e2">
+ <rect x="284" y="111" width="282" height="96" rx="14" class="panel"/>
+ <path d="M301 112H371" stroke="url(#chrome)" stroke-width="1.4"/>
+ <text x="304" y="137" class="micro muted">02 / CERTIFICATION</text>
+ <text x="304" y="166" class="heading">Azure AI Certification</text>
+ <text x="304" y="190" class="issuer">MICROSOFT</text>
+ <rect x="284" y="111" width="282" height="96" rx="14" class="edge"/>
+</g>
+<g class="entry e3">
+ <rect x="284" y="222" width="282" height="96" rx="14" class="panel"/>
+ <path d="M301 223H371" stroke="url(#chrome)" stroke-width="1.4"/>
+ <text x="304" y="248" class="micro muted">03 / CERTIFICATION</text>
+ <text x="304" y="274" class="heading">Python for Data Science,</text>
+ <text x="304" y="291" class="heading">AI &amp; Development</text>
+ <text x="304" y="307" class="issuer">IBM / COURSERA</text>
+ <rect x="284" y="222" width="282" height="96" rx="14" class="edge"/>
+</g>
+<g class="entry e4">
+ <rect x="284" y="333" width="282" height="124" rx="14" class="panel"/>
+ <path d="M301 334H371" stroke="url(#chrome)" stroke-width="1.4"/>
+ <text x="304" y="359" class="micro muted">04 / CERTIFICATION</text>
+ <text x="304" y="386" class="heading">Databases and SQL for</text>
+ <text x="304" y="403" class="heading">Data Science with Python</text>
+ <text x="304" y="434" class="issuer">IBM / COURSERA</text>
+ <rect x="284" y="333" width="282" height="124" rx="14" class="edge"/>
+</g>
+
+<g class="entry e5">
+ <rect x="586" y="111" width="292" height="96" rx="14" class="panel"/>
+ <path d="M603 112H673" stroke="url(#chrome)" stroke-width="1.4"/>
+ <text x="606" y="137" class="micro muted">05 / CERTIFICATION</text>
+ <text x="606" y="170" class="heading">Data Analysis with Python</text>
+ <text x="606" y="190" class="issuer">IBM / COURSERA</text>
+ <rect x="586" y="111" width="292" height="96" rx="14" class="edge"/>
+</g>
+<g class="entry e6">
+ <rect x="586" y="222" width="292" height="96" rx="14" class="panel"/>
+ <path d="M603 223H673" stroke="url(#chrome)" stroke-width="1.4"/>
+ <text x="606" y="248" class="micro muted">06 / CERTIFICATION</text>
+ <text x="606" y="276" class="heading">Object-Oriented</text>
+ <text x="606" y="293" class="heading">Programming Paradigm</text>
+ <text x="606" y="307" class="issuer">HTUx</text>
+ <rect x="586" y="222" width="292" height="96" rx="14" class="edge"/>
+</g>
+<g class="entry e7">
+ <rect x="586" y="333" width="292" height="124" rx="14" class="panel"/>
+ <path d="M603 334H673" stroke="url(#chrome)" stroke-width="1.4"/>
+ <text x="606" y="359" class="micro muted">07 / CERTIFICATION</text>
+ <text x="606" y="386" class="heading">Introduction: Setup</text>
+ <text x="606" y="403" class="heading">Development Environment</text>
+ <text x="606" y="434" class="issuer">HTUx</text>
+ <rect x="586" y="333" width="292" height="124" rx="14" class="edge"/>
+</g>
+
+<!-- Footer -->
+<path d="M42 486H878" stroke="#7d8994" stroke-opacity=".4"/>
+<text x="44" y="516" class="micro muted">LEARN  ·  EXPLORE  ·  BUILD  ·  INNOVATE</text>
+<text x="876" y="516" text-anchor="end" class="micro silver">S.A. / 2026</text>
+<rect x="42" y="98" width="836" height="2" fill="#e4eaf0" opacity=".2" class="scan"/>
+</svg>
