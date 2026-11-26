@@ -23,8 +23,6 @@
        alt="Sadeen's Certifications and Leadership"/>
 </div>
 
- 
-
 ## ◈ GITHUB ACTIVITY
 
 <div align="center">
