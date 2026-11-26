@@ -25,13 +25,32 @@
 
  
 
-## 📊 GITHUB ACTIVITY
+## ◈ GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sad3nwl&show_icons=true&hide_border=true&bg_color=020817&title_color=5DA9E9&icon_color=3B82F6&text_color=FFFFFF" height="165"/>
+  <!-- GitHub Statistics -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sad3nwl&show_icons=true&hide_border=false&border_color=737E89&bg_color=090B0E&title_color=F5F7F9&icon_color=C4CCD4&text_color=B6C0C9&include_all_commits=true&cache_seconds=21600"
+    height="175"
+    alt="GitHub Statistics"
+  />
 
-<img src="https://streak-stats.demolab.com?user=Sad3nwl&hide_border=true&background=020817&ring=5DA9E9&fire=3B82F6&currStreakLabel=5DA9E9&sideLabels=FFFFFF&dates=94A3B8" height="165"/>
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Sad3nwl&hide_border=false&border=737E89&background=090B0E&ring=C4CCD4&fire=F5F7F9&currStreakLabel=C4CCD4&sideLabels=B6C0C9&dates=858F99&currStreakNum=F5F7F9&sideNums=F5F7F9"
+    height="175"
+    alt="GitHub Streak"
+  />
+
+  <br/>
+
+  <!-- Contribution Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sad3nwl&bg_color=090B0E&color=C4CCD4&line=9BA6B0&point=F5F7F9&area=true&hide_border=true"
+    width="96%"
+    alt="GitHub Contribution Activity Graph"
+  />
 
 </div>
 
