@@ -56,28 +56,43 @@
 
 ---
 
-## 📫 LET'S CONNECT
+<h2 align="center">◈ LET'S CONNECT</h2>
 
 <div align="center">
 
-I'm always open to collaborating on AI and Data Science projects, exploring new technologies, and connecting with fellow developers.
+<p>
+  I'm always open to collaborating on AI and Data Science projects,
+  exploring new technologies, and connecting with fellow developers.
+</p>
 
-<a href="https://www.linkedin.com/in/sadeen-abdelalrahman-3aa607322">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br/>
+
+<a href="https://www.linkedin.com/in/sadeen-abdelrahman-3aa607322">
+  <img src="https://img.shields.io/badge/LINKEDIN-090B0E?style=for-the-badge&logo=linkedin&logoColor=C4CCD4&labelColor=090B0E"/>
 </a>
 &nbsp;
 <a href="mailto:sadeenabdelrahman2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-090B0E?style=for-the-badge&logo=gmail&logoColor=C4CCD4&labelColor=090B0E"/>
 </a>
 &nbsp;
 <a href="https://github.com/Sad3nwl">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-090B0E?style=for-the-badge&logo=github&logoColor=C4CCD4&labelColor=090B0E"/>
 </a>
 
 <br/><br/>
 
-**"Building intelligence, one project at a time."**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020304,50:171B20,100:020304&height=2&section=header" width="85%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B70,100:020817&height=120&section=footer"/>
+<br/>
+
+<h3>
+  <em>"Building intelligence, one project at a time."</em>
+</h3>
+
+<p>
+  <sub> S ADEEN  ·  AI & DATA SCIENCE · 2026 </sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020304,50:171B20,100:020304&height=110&section=footer" width="100%"/>
 
 </div>
