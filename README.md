@@ -16,7 +16,13 @@
        alt="Sadeen's Featured Projects"/>
 </div>
 ---
-<img src="assets/certifications.svg" width="100%" alt="Certifications and Leadership"/>
+
+<div align="center">
+  <img src="assets/sadeen_certifications_leadership_orbital_theme.svg"
+       width="100%"
+       alt="Sadeen's Certifications and Leadership"/>
+</div>
+
  
 
 ## 📊 GITHUB ACTIVITY
