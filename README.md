@@ -10,9 +10,11 @@
        alt="Sadeen's Tech Stack"/>
 </div>
 ---
-<p align="center">
-  <img src="assets/featured_projects.svg" width="100%" alt="Featured Projects"/>
-</p>
+<div align="center">
+  <img src="assets/sadeen_featured_projects_black.svg"
+       width="100%"
+       alt="Sadeen's Featured Projects"/>
+</div>
 ---
 <img src="assets/certifications.svg" width="100%" alt="Certifications and Leadership"/>
  
