@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="680" viewBox="0 0 960 680" role="img" aria-label="Sadeen's Featured Projects">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="35%" r="85%">
+    <stop offset="0" stop-color="#171b20"/>
+    <stop offset=".58" stop-color="#090b0e"/>
+    <stop offset="1" stop-color="#020304"/>
+  </radialGradient>
+  <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#68727c"/>
+    <stop offset=".48" stop-color="#f5f7f9"/>
+    <stop offset="1" stop-color="#9ba6b0"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2026"/>
+    <stop offset="1" stop-color="#080a0d"/>
+  </linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f6f7f8" stop-opacity=".8"/>
+    <stop offset=".5" stop-color="#8d98a3" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#c4ccd4" stop-opacity=".42"/>
+  </linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r=".8" fill="#aab4be" opacity=".22"/>
+  </pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif;fill:#edf1f4}
+    .muted{fill:#858f99}.silver{fill:#c4ccd4}
+    .eyebrow{font-size:9px;letter-spacing:2px;fill:#9ba6b0}
+    .title{font-size:25px;font-weight:700;letter-spacing:3px}
+    .sub{font-size:10px;letter-spacing:1.7px;fill:#9ba6b0}
+    .panel{fill:url(#glass);stroke:#737e89;stroke-opacity:.48;stroke-width:1}
+    .panelGlow{fill:none;stroke:url(#chrome);stroke-width:1.2;stroke-dasharray:35 500;opacity:.65;animation:orbit 8s linear infinite}
+    .num{font-size:31px;font-weight:300;fill:#68727c}
+    .cat{font-size:8px;letter-spacing:1.5px;fill:#9ba6b0}
+    .name{font-size:13px;font-weight:700;letter-spacing:.55px;fill:#f5f7f9}
+    .desc{font-size:10px;fill:#b6c0c9}
+    .tag{font-size:8px;letter-spacing:.65px;fill:#c4ccd4}
+    .link{font-size:8px;letter-spacing:1px;fill:#edf1f4}
+    .entry{opacity:0;animation:rise .75s ease forwards}
+    .entry:nth-of-type(1){animation-delay:.08s}
+    .entry:nth-of-type(2){animation-delay:.18s}
+    .entry:nth-of-type(3){animation-delay:.28s}
+    .entry:nth-of-type(4){animation-delay:.38s}
+    .entry:nth-of-type(5){animation-delay:.48s}
+    .entry:nth-of-type(6){animation-delay:.58s}
+    @keyframes rise{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes orbit{to{stroke-dashoffset:-535}}
+    .pulse{animation:pulse 2.6s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.25}}
+    .spin{transform-origin:480px 340px;animation:spin 28s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+  </style>
+</defs>
+
+<rect width="960" height="680" rx="22" fill="url(#bg)"/>
+<rect width="960" height="680" rx="22" fill="url(#dots)"/>
+<circle cx="480" cy="340" r="270" fill="none" stroke="#68727c" stroke-opacity=".12" stroke-width="1"/>
+<circle cx="480" cy="340" r="294" fill="none" stroke="#9ba6b0" stroke-opacity=".12" stroke-dasharray="2 10"/>
+<g class="spin" opacity=".45">
+  <path d="M480 42 A298 298 0 0 1 778 340" fill="none" stroke="url(#chrome)" stroke-width="1.4" stroke-dasharray="48 620"/>
+  <circle cx="480" cy="42" r="3" fill="#f5f7f9" filter="url(#glow)"/>
+</g>
+
+<path d="M34 35H926" stroke="#737e89" stroke-opacity=".55"/>
+<text x="40" y="67" class="eyebrow">S ADEEN  /  PORTFOLIO 2026</text>
+<text x="40" y="105" class="title">FEATURED PROJECTS</text>
+<text x="920" y="66" text-anchor="end" class="eyebrow">AI  ·  DATA  ·  ENGINEERING</text>
+<text x="920" y="103" text-anchor="end" class="sub">SELECTED WORKS <tspan class="pulse">●</tspan> 06</text>
+<path d="M40 124H920" stroke="url(#chrome)" stroke-width="1.2" opacity=".7"/>
+<text x="40" y="145" class="eyebrow">A COLLECTION OF EXPERIMENTS, MODELS &amp; BUILT SYSTEMS</text>
+
+<!-- 01 -->
+<g class="entry">
+  <rect class="panel" x="40" y="174" width="280" height="205" rx="17"/>
+  <rect x="40" y="174" width="280" height="205" rx="17" fill="none" stroke="url(#shine)" opacity=".6"/>
+  <rect class="panelGlow" x="40" y="174" width="280" height="205" rx="17"/>
+  <text x="62" y="204" class="cat">01  /  DEEP LEARNING</text>
+  <text x="294" y="215" text-anchor="end" class="num">01</text>
+  <circle cx="79" cy="246" r="17" fill="none" stroke="#aab4be" stroke-opacity=".65"/>
+  <path d="M70 246c4-11 14-11 18 0m-18 0c4 11 14 11 18 0m-9-14v28" fill="none" stroke="#d8dfe5" stroke-width="1.2"/>
+  <text x="108" y="244" class="name">BRAIN TUMOR</text><text x="108" y="262" class="name">DETECTION &amp; XAI</text>
+  <path d="M62 280H298" stroke="#737e89" stroke-opacity=".35"/>
+  <text x="62" y="305" class="desc">Brain tumor classification using</text>
+  <text x="62" y="321" class="desc">MobileNetV2 Transfer Learning,</text>
+  <text x="62" y="337" class="desc">with Grad-CAM explainability.</text>
+  <text x="62" y="358" class="tag">MOBILENETV2  ·  GRAD-CAM</text>
+  <text x="62" y="370" class="link">GITHUB / BRAIN-TUMOR-DETECTION ↗</text>
+</g>
+
+<!-- 02 -->
+<g class="entry">
+  <rect class="panel" x="340" y="174" width="280" height="205" rx="17"/>
+  <rect x="340" y="174" width="280" height="205" rx="17" fill="none" stroke="url(#shine)" opacity=".6"/>
+  <rect class="panelGlow" x="340" y="174" width="280" height="205" rx="17"/>
+  <text x="362" y="204" class="cat">02  /  GENERATIVE AI</text>
+  <text x="594" y="215" text-anchor="end" class="num">02</text>
+  <circle cx="379" cy="246" r="17" fill="none" stroke="#aab4be" stroke-opacity=".65"/>
+  <path d="M370 240h18m-18 6h13m-13 6h16" stroke="#d8dfe5" stroke-width="1.3" stroke-linecap="round"/>
+  <text x="408" y="244" class="name">ARABIC RAG</text><text x="408" y="262" class="name">WIKIPEDIA</text>
+  <path d="M362 280H598" stroke="#737e89" stroke-opacity=".35"/>
+  <text x="362" y="305" class="desc">Arabic Retrieval-Augmented</text>
+  <text x="362" y="321" class="desc">Generation with source-grounded</text>
+  <text x="362" y="337" class="desc">answers from Wikipedia articles.</text>
+  <text x="362" y="358" class="tag">LANGCHAIN  ·  CHROMADB</text>
+  <text x="362" y="370" class="link">GITHUB / ARABIC-RAG-WIKIPEDIA ↗</text>
+</g>
+
+<!-- 03 -->
+<g class="entry">
+  <rect class="panel" x="640" y="174" width="280" height="205" rx="17"/>
+  <rect x="640" y="174" width="280" height="205" rx="17" fill="none" stroke="url(#shine)" opacity=".6"/>
+  <rect class="panelGlow" x="640" y="174" width="280" height="205" rx="17"/>
+  <text x="662" y="204" class="cat">03  /  DATA ANALYTICS</text>
+  <text x="894" y="215" text-anchor="end" class="num">03</text>
+  <circle cx="679" cy="246" r="17" fill="none" stroke="#aab4be" stroke-opacity=".65"/>
+  <path d="M670 255v-10h5v10m3 0v-17h5v17m3 0v-7h5v7" fill="none" stroke="#d8dfe5" stroke-width="1.3"/>
+  <text x="708" y="244" class="name">CARINSIGHT</text><text x="708" y="262" class="name">DASHBOARD</text>
+  <path d="M662 280H898" stroke="#737e89" stroke-opacity=".35"/>
+  <text x="662" y="305" class="desc">Interactive automotive analytics</text>
+  <text x="662" y="321" class="desc">dashboard with KPIs, dynamic</text>
+  <text x="662" y="337" class="desc">filters and data visualizations.</text>
+  <text x="662" y="358" class="tag">PYTHON  ·  PLOTLY  ·  STREAMLIT</text>
+  <text x="662" y="370" class="link">GITHUB / CARINSIGHT-DASHBOARD ↗</text>
+</g>
+
+<!-- 04 -->
+<g class="entry">
+  <rect class="panel" x="40" y="402" width="280" height="205" rx="17"/>
+  <rect x="40" y="402" width="280" height="205" rx="17" fill="none" stroke="url(#shine)" opacity=".6"/>
+  <rect class="panelGlow" x="40" y="402" width="280" height="205" rx="17"/>
+  <text x="62" y="432" class="cat">04  /  NATURAL LANGUAGE PROCESSING</text>
+  <text x="294" y="443" text-anchor="end" class="num">04</text>
+  <circle cx="79" cy="474" r="17" fill="none" stroke="#aab4be" stroke-opacity=".65"/>
+  <path d="M70 465h18v17H70zM73 470h12m-12 4h12m-12 4h8" fill="none" stroke="#d8dfe5" stroke-width="1.2"/>
+  <text x="108" y="472" class="name">NEWS</text><text x="108" y="490" class="name">CLASSIFICATION</text>
+  <path d="M62 508H298" stroke="#737e89" stroke-opacity=".35"/>
+  <text x="62" y="533" class="desc">News article classification using</text>
+  <text x="62" y="549" class="desc">TF-IDF feature extraction and</text>
+  <text x="62" y="565" class="desc">Machine Learning algorithms.</text>
+  <text x="62" y="586" class="tag">NLP  ·  TF-IDF  ·  MACHINE LEARNING</text>
+  <text x="62" y="598" class="link">GITHUB / NEWS-CLASSIFICATION ↗</text>
+</g>
+
+<!-- 05 -->
+<g class="entry">
+  <rect class="panel" x="340" y="402" width="280" height="205" rx="17"/>
+  <rect x="340" y="402" width="280" height="205" rx="17" fill="none" stroke="url(#shine)" opacity=".6"/>
+  <rect class="panelGlow" x="340" y="402" width="280" height="205" rx="17"/>
+  <text x="362" y="432" class="cat">05  /  NLP · ARABIC AI</text>
+  <text x="594" y="443" text-anchor="end" class="num">05</text>
+  <circle cx="379" cy="474" r="17" fill="none" stroke="#aab4be" stroke-opacity=".65"/>
+  <circle cx="379" cy="474" r="9" fill="none" stroke="#d8dfe5" stroke-width="1.2"/>
+  <path d="M379 461v5m0 16v5m-13-13h5m16 0h5" stroke="#d8dfe5" stroke-width="1.2"/>
+  <text x="408" y="472" class="name">ARABIC SENTIMENT</text><text x="408" y="490" class="name">ANALYSIS</text>
+  <path d="M362 508H598" stroke="#737e89" stroke-opacity=".35"/>
+  <text x="362" y="533" class="desc">Arabic review classification into</text>
+  <text x="362" y="549" class="desc">Positive, Negative and Mixed</text>
+  <text x="362" y="565" class="desc">sentiment categories.</text>
+  <text x="362" y="586" class="tag">NLP  ·  PYTHON  ·  MACHINE LEARNING</text>
+  <text x="362" y="598" class="link">GITHUB / ARABIC-SENTIMENT ↗</text>
+</g>
+
+<!-- 06 -->
+<g class="entry">
+  <rect class="panel" x="640" y="402" width="280" height="205" rx="17"/>
+  <rect x="640" y="402" width="280" height="205" rx="17" fill="none" stroke="url(#shine)" opacity=".6"/>
+  <rect class="panelGlow" x="640" y="402" width="280" height="205" rx="17"/>
+  <text x="662" y="432" class="cat">06  /  SOFTWARE DEVELOPMENT</text>
+  <text x="894" y="443" text-anchor="end" class="num">06</text>
+  <circle cx="679" cy="474" r="17" fill="none" stroke="#aab4be" stroke-opacity=".65"/>
+  <path d="M671 466h16v16h-16zM675 470h8v8h-8zm-4 0h-3m3 4h-3m3 4h-3m19-8h3m-3 4h3m-3 4h3" fill="none" stroke="#d8dfe5" stroke-width="1.1"/>
+  <text x="708" y="472" class="name">PHARMACY</text><text x="708" y="490" class="name">MANAGEMENT SYSTEM</text>
+  <path d="M662 508H898" stroke="#737e89" stroke-opacity=".35"/>
+  <text x="662" y="533" class="desc">Java console application for</text>
+  <text x="662" y="549" class="desc">inventory and prescriptions using</text>
+  <text x="662" y="565" class="desc">Object-Oriented Programming.</text>
+  <text x="662" y="586" class="tag">JAVA  ·  OOP  ·  ENCAPSULATION</text>
+  <text x="662" y="598" class="link">GITHUB / PHARMACY-SYSTEM ↗</text>
+</g>
+
+<path d="M40 632H920" stroke="#737e89" stroke-opacity=".55"/>
+<text x="40" y="655" class="eyebrow">THINK  /  EXPERIMENT  /  BUILD  /  INNOVATE</text>
+<text x="920" y="655" text-anchor="end" class="eyebrow">PROJECTS STATUS: ACTIVE</text>
+</svg>
