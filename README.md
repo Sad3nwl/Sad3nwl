@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="assets/robot_name.svg"
+  <img src="assets/sadeen_about_animated.svg"
        width="100%"
-       alt="Sadeen Abdelrahman - Neon AI Robot"/>
-</div>
----
-<div align="center">
-  <img src="assets/about1.svg" width="100%" alt="About Sadeen"/>
+       alt="Sadeen Abdelalrahman - AI Profile"/>
 </div>
 ---
 <img src="assets/tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
