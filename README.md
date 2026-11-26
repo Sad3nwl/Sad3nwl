@@ -4,7 +4,11 @@
        alt="Sadeen Abdelalrahman - AI Profile"/>
 </div>
 ---
-<img src="assets/tech_stack.svg" width="100%" alt="Animated Tech Stack Dashboard"/>
+<div align="center">
+  <img src="assets/sadeen_tech_stack_orbital_black.svg"
+       width="100%"
+       alt="Sadeen's Tech Stack"/>
+</div>
 ---
 <p align="center">
   <img src="assets/featured_projects.svg" width="100%" alt="Featured Projects"/>
