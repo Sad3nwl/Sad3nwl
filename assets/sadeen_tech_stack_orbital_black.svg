@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="560" viewBox="0 0 920 560" role="img" aria-labelledby="title desc">
+<title id="title">Sadeen's Tech Stack — Orbital Interface</title>
+<desc id="desc">A redesigned black monochrome orbital interface showing Sadeen's programming, data science, AI, development, version control, and database tools.</desc>
+<defs>
+  <radialGradient id="bg" cx="50%" cy="48%" r="75%">
+    <stop offset="0" stop-color="#171b20"/><stop offset=".52" stop-color="#090b0e"/><stop offset="1" stop-color="#020304"/>
+  </radialGradient>
+  <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f5f7f9"/><stop offset=".48" stop-color="#68727c"/><stop offset="1" stop-color="#d8dfe5"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2026" stop-opacity=".92"/><stop offset="1" stop-color="#080a0d" stop-opacity=".95"/>
+  </linearGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.2" cy="1.2" r=".8" fill="#aab4be" opacity=".13"/>
+  </pattern>
+</defs>
+<style>
+  text{font-family:Arial,Helvetica,sans-serif;fill:#edf1f4}
+  .muted{fill:#858f99}.silver{fill:#c4ccd4}.white{fill:#f6f7f8}
+  .micro{font-size:10px;letter-spacing:2px}
+  .heading{font-size:12px;letter-spacing:1.5px;font-weight:700;fill:#dce2e8}
+  .tech{font-size:14px;fill:#eef1f4}
+  .sub{font-size:12px;fill:#b0bac4}
+  .orb{fill:none;stroke:#aeb8c2;stroke-opacity:.26}
+  .link{fill:none;stroke:#aeb8c2;stroke-opacity:.43;stroke-width:1.2;stroke-dasharray:4 7;animation:dash 18s linear infinite}
+  .node{fill:url(#glass);stroke:#737e89;stroke-opacity:.68;stroke-width:1.1}
+  .nodeTop{stroke:#e1e6eb;stroke-opacity:.65;stroke-width:1.5;fill:none}
+  .module{opacity:0;animation:rise .8s ease forwards}
+  .m1{animation-delay:.1s}.m2{animation-delay:.25s}.m3{animation-delay:.4s}
+  .m4{animation-delay:.55s}.m5{animation-delay:.7s}.m6{animation-delay:.85s}
+  .pulse{animation:pulse 2.6s ease-in-out infinite}
+  .spin{transform-origin:460px 284px;animation:spin 42s linear infinite}
+  .spinBack{transform-origin:460px 284px;animation:spin 30s linear infinite reverse}
+  .scan{animation:scan 6s ease-in-out infinite}
+  .blink{animation:blink 1s steps(2) infinite}
+  @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+  @keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes dash{to{stroke-dashoffset:-220}}
+  @keyframes scan{0%{transform:translateY(0);opacity:0}20%{opacity:.35}80%{opacity:.35}100%{transform:translateY(450px);opacity:0}}
+  @keyframes blink{50%{opacity:0}}
+</style>
+
+<!-- Dark canvas -->
+<rect width="920" height="560" rx="34" fill="url(#bg)"/>
+<rect width="920" height="560" rx="34" fill="url(#dots)"/>
+<ellipse cx="460" cy="285" rx="300" ry="235" fill="#c5d0db" opacity=".055" filter="url(#soft)"/>
+<rect x="1.5" y="1.5" width="917" height="557" rx="32" fill="none" stroke="#8d98a3" stroke-opacity=".42"/>
+
+<!-- Header -->
+<text x="42" y="46" font-size="17" font-weight="700" letter-spacing="3" class="white">MY DIGITAL TOOLKIT</text>
+<text x="42" y="67" class="micro muted">SADEEN ABDELALRAHMAN  /  TECH STACK</text>
+<g transform="translate(790 40)">
+  <circle r="5" fill="#e5eaf0" class="pulse"/>
+  <text x="15" y="4" class="micro silver">SYSTEM ONLINE</text>
+</g>
+<path d="M42 87H878" stroke="#7d8994" stroke-opacity=".35"/>
+
+<!-- Orbital geometry behind modules -->
+<g class="spin">
+  <ellipse cx="460" cy="284" rx="300" ry="160" class="orb" stroke-dasharray="2 9"/>
+  <ellipse cx="460" cy="284" rx="250" ry="210" class="orb"/>
+  <path d="M160 284H760M460 74V494" class="orb" stroke-dasharray="3 11"/>
+</g>
+<g class="spinBack">
+  <ellipse cx="460" cy="284" rx="340" ry="105" class="orb" stroke-dasharray="5 12"/>
+</g>
+
+<!-- Connecting lines -->
+<path class="link" d="M460 284Q335 205 170 155M460 284Q460 170 460 150M460 284Q600 200 750 155M460 284Q320 360 170 410M460 284Q460 390 460 420M460 284Q610 365 750 410"/>
+
+<!-- Central core -->
+<g>
+  <circle cx="460" cy="284" r="94" fill="#080a0d" stroke="#697580" stroke-opacity=".75" stroke-width="1.5"/>
+  <circle cx="460" cy="284" r="82" fill="none" stroke="url(#chrome)" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="60 18 12 18" class="spin"/>
+  <circle cx="460" cy="284" r="68" fill="none" stroke="#9da8b3" stroke-opacity=".22"/>
+  <circle cx="460" cy="284" r="55" fill="#11161b" stroke="#d3dbe2" stroke-opacity=".32"/>
+  <path d="M430 267L460 246L490 267V301L460 322L430 301Z" fill="none" stroke="url(#chrome)" stroke-width="1.5"/>
+  <path d="M445 274H475M445 284H475M445 294H475" stroke="#e5eaf0" stroke-opacity=".75" stroke-width="2" stroke-linecap="round"/>
+  <text x="460" y="350" text-anchor="middle" font-size="11" letter-spacing="3" class="silver">TECH STACK</text>
+  <circle cx="460" cy="284" r="4" fill="#fff" filter="url(#glow)" class="pulse"/>
+</g>
+
+<!-- Module 01 -->
+<g class="module m1">
+  <path d="M54 118Q54 104 69 104H270Q285 104 285 119V186Q285 201 270 201H69Q54 201 54 186Z" class="node"/>
+  <path d="M70 105H151" class="nodeTop"/>
+  <text x="75" y="130" class="micro muted">01 / CODE</text>
+  <text x="75" y="153" class="heading">PROGRAMMING</text>
+  <text x="75" y="177" class="tech">Python  ·  Java  ·  SQL</text>
+  <circle cx="264" cy="124" r="3" fill="#f1f4f7" class="pulse"/>
+</g>
+
+<!-- Module 02 -->
+<g class="module m2">
+  <path d="M350 104Q350 91 364 91H556Q570 91 570 105V174Q570 188 556 188H364Q350 188 350 174Z" class="node"/>
+  <path d="M366 92H445" class="nodeTop"/>
+  <text x="371" y="117" class="micro muted">02 / DATA</text>
+  <text x="371" y="140" class="heading">DATA SCIENCE</text>
+  <text x="371" y="160" class="sub">Pandas · NumPy · Plotly</text>
+  <text x="371" y="178" class="sub">Matplotlib · Seaborn · Power BI</text>
+  <circle cx="549" cy="111" r="3" fill="#f1f4f7" class="pulse"/>
+</g>
+
+<!-- Module 03 -->
+<g class="module m3">
+  <path d="M635 118Q635 104 650 104H851Q866 104 866 119V186Q866 201 851 201H650Q635 201 635 186Z" class="node"/>
+  <path d="M651 105H732" class="nodeTop"/>
+  <text x="656" y="130" class="micro muted">03 / INTELLIGENCE</text>
+  <text x="656" y="153" class="heading">AI &amp; MACHINE LEARNING</text>
+  <text x="656" y="177" class="tech">Scikit-learn · TensorFlow</text>
+  <text x="656" y="193" class="sub">LangChain</text>
+  <circle cx="845" cy="124" r="3" fill="#f1f4f7" class="pulse"/>
+</g>
+
+<!-- Module 04 -->
+<g class="module m4">
+  <path d="M54 375Q54 360 69 360H270Q285 360 285 375V443Q285 458 270 458H69Q54 458 54 443Z" class="node"/>
+  <path d="M70 361H151" class="nodeTop"/>
+  <text x="75" y="386" class="micro muted">04 / WORKSPACE</text>
+  <text x="75" y="409" class="heading">DEVELOPMENT TOOLS</text>
+  <text x="75" y="432" class="sub">PyCharm · Google Colab</text>
+  <text x="75" y="449" class="sub">Jupyter · Streamlit</text>
+  <circle cx="264" cy="380" r="3" fill="#f1f4f7" class="pulse"/>
+</g>
+
+<!-- Module 05 -->
+<g class="module m5">
+  <path d="M350 389Q350 375 364 375H556Q570 375 570 389V457Q570 471 556 471H364Q350 471 350 457Z" class="node"/>
+  <path d="M366 376H445" class="nodeTop"/>
+  <text x="371" y="401" class="micro muted">05 / COLLABORATION</text>
+  <text x="371" y="425" class="heading">VERSION CONTROL</text>
+  <text x="371" y="450" class="tech">Git  ·  GitHub</text>
+  <circle cx="549" cy="394" r="3" fill="#f1f4f7" class="pulse"/>
+</g>
+
+<!-- Module 06 -->
+<g class="module m6">
+  <path d="M635 375Q635 360 650 360H851Q866 360 866 375V443Q866 458 851 458H650Q635 458 635 443Z" class="node"/>
+  <path d="M651 361H732" class="nodeTop"/>
+  <text x="656" y="386" class="micro muted">06 / STORAGE</text>
+  <text x="656" y="409" class="heading">DATABASES</text>
+  <text x="656" y="435" class="tech">MySQL</text>
+  <circle cx="845" cy="380" r="3" fill="#f1f4f7" class="pulse"/>
+</g>
+
+<!-- Footer -->
+<path d="M42 500H878" stroke="#7d8994" stroke-opacity=".35"/>
+<text x="44" y="528" class="micro muted">LEARN  •  EXPLORE  •  BUILD  •  INNOVATE</text>
+<text x="876" y="528" text-anchor="end" class="micro silver">S.A. / 2026</text>
+<rect x="40" y="88" width="840" height="2" fill="#e4eaf0" opacity=".23" class="scan"/>
+</svg>
