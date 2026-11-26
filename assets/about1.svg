@@ -1,0 +1,148 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1">
+    <stop stop-color="#020817"></stop>
+    <stop offset=".5" stop-color="#071B35"></stop>
+    <stop offset="1" stop-color="#020817"></stop>
+  </linearGradient>
+  <linearGradient id="neon">
+    <stop stop-color="#38BDF8"></stop>
+    <stop offset=".5" stop-color="#008CFF"></stop>
+    <stop offset="1" stop-color="#6366F1"></stop>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"></feGaussianBlur>
+    <feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+  </filter>
+  <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+    <path d="M25 0H0V25" fill="none" stroke="#16416B" opacity=".25"></path>
+  </pattern>
+</defs>
+
+<style>
+text{font-family:Arial,sans-serif;fill:#E6F4FF}
+.blue{fill:#38BDF8}
+.muted{fill:#83A9CC}
+.glow{filter:url(#glow)}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes reverse{to{transform:rotate(-360deg)}}
+@keyframes scan{0%{transform:translateY(0);opacity:0}20%{opacity:.7}80%{opacity:.7}100%{transform:translateY(300px);opacity:0}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes dash{to{stroke-dashoffset:-100}}
+@keyframes draw{from{stroke-dasharray:0 410}to{stroke-dasharray:372 410}}
+@keyframes blink{50%{opacity:0}}
+@keyframes appear{0%,8%{opacity:0}15%,85%{opacity:1}100%{opacity:0}}
+@keyframes move{0%{transform:translateX(-30px)}100%{transform:translateX(930px)}}
+@keyframes particle{0%,100%{opacity:.1;transform:translateY(0)}50%{opacity:1;transform:translateY(-12px)}}
+
+.scan{animation:scan 5s ease-in-out infinite}
+.float{animation:float 4s ease-in-out infinite}
+.orbit{transform-origin:710px 165px;animation:spin 18s linear infinite}
+.orbit2{transform-origin:710px 165px;animation:reverse 12s linear infinite}
+.pulse{animation:pulse 2s ease-in-out infinite}
+.dash{animation:dash 7s linear infinite}
+.gpa{animation:draw 2.5s ease-out forwards}
+.cursor{animation:blink .8s steps(2) infinite}
+.p1{animation:appear 20s infinite}
+.p2{animation:appear 20s 3s infinite}
+.p3{animation:appear 20s 6s infinite}
+.p4{animation:appear 20s 9s infinite}
+.p5{animation:appear 20s 12s infinite}
+.p6{animation:appear 20s 15s infinite}
+</style>
+
+<!-- Background -->
+<rect width="900" height="390" rx="10" fill="url(#bg)"></rect>
+<rect width="900" height="390" rx="10" fill="url(#grid)"></rect>
+<rect x="1" y="1" width="898" height="388" rx="10" fill="none" stroke="#1675B8"></rect>
+
+<!-- Moving particles -->
+<g fill="#38BDF8">
+<circle cx="480" cy="85" r="2" class="pulse"></circle>
+<circle cx="550" cy="55" r="2" class="pulse"></circle>
+<circle cx="850" cy="80" r="2" class="pulse"></circle>
+<circle cx="490" cy="310" r="2" class="pulse"></circle>
+<circle cx="860" cy="320" r="2" class="pulse"></circle>
+<circle cx="400" cy="190" r="2" class="pulse"></circle>
+</g>
+
+<!-- Header -->
+<circle cx="28" cy="28" r="4" fill="#38BDF8" class="glow"></circle>
+<circle cx="43" cy="28" r="4" fill="none" stroke="#83A9CC"></circle>
+<circle cx="58" cy="28" r="4" fill="none" stroke="#83A9CC"></circle>
+<text x="77" y="32" font-size="11" letter-spacing="2" class="blue">SADEEN@AI: ~/ABOUT</text>
+<text x="870" y="32" text-anchor="end" font-size="10" class="muted">SYSTEM ONLINE ●</text>
+<path d="M20 55H880 M20 350H880" stroke="#16416B"></path>
+
+<!-- Identity -->
+<text x="38" y="85" font-size="11" letter-spacing="3" class="blue">01 // PERSONAL PROFILE</text>
+<text x="38" y="126" font-size="31" font-weight="bold">Sadeen Abdelalrahman</text>
+<text x="40" y="153" font-size="13" class="blue">Artificial Intelligence &amp; Data Science Student</text>
+
+<!-- Terminal information -->
+<g font-size="12">
+<text x="40" y="193" class="blue">$ education</text>
+<text x="170" y="193" class="p1">→ AI &amp; Data Science Student</text>
+
+<text x="40" y="224" class="blue">$ university</text>
+<text x="170" y="224" class="p2">→ Al-Zaytoonah University of Jordan</text>
+
+<text x="40" y="255" class="blue">$ interests</text>
+<text x="170" y="255" class="p3">→ ML / Data Science / NLP / Deep Learning</text>
+
+<text x="40" y="286" class="blue">$ exploring</text>
+<text x="170" y="286" class="p4">→ Advanced RAG / XAI / DL Architectures</text>
+</g>
+
+<text x="40" y="324" font-size="11" class="muted">Learn continuously. Build consistently.</text>
+<rect x="302" y="312" width="7" height="15" fill="#38BDF8" class="cursor"></rect>
+
+<!-- GPA -->
+<text x="710" y="77" font-size="10" text-anchor="middle" letter-spacing="3" class="muted">ACADEMIC GPA</text>
+<g class="float">
+<circle cx="710" cy="165" r="82" fill="none" stroke="#16416B" stroke-dasharray="3 7" class="orbit"></circle>
+<circle cx="710" cy="165" r="65" fill="none" stroke="#102D4A" stroke-width="7"></circle>
+<circle cx="710" cy="165" r="65" fill="none" stroke="#38BDF8" stroke-width="7" stroke-linecap="round" stroke-dasharray="372 410" transform="rotate(-90 710 165)" class="gpa glow"></circle>
+<circle cx="710" cy="165" r="52" fill="none" stroke="#168BDE" stroke-dasharray="3 6" class="orbit2"></circle>
+<text x="710" y="164" text-anchor="middle" font-size="30" font-weight="bold" class="blue glow">90.9</text>
+<text x="710" y="185" text-anchor="middle" font-size="11" class="muted">/ 100</text>
+</g>
+
+<!-- Skills -->
+<text x="710" y="277" text-anchor="middle" font-size="10" letter-spacing="2" class="muted">AREAS OF INTEREST</text>
+<g font-size="10" text-anchor="middle">
+<rect x="570" y="292" width="125" height="23" rx="5" fill="#082B4B" stroke="#168BDE"></rect>
+<text x="632" y="307">Machine Learning</text>
+<rect x="705" y="292" width="125" height="23" rx="5" fill="#082B4B" stroke="#168BDE"></rect>
+<text x="767" y="307">Deep Learning</text>
+<rect x="570" y="321" width="125" height="23" rx="5" fill="#082B4B" stroke="#168BDE"></rect>
+<text x="632" y="336">Generative AI</text>
+<rect x="705" y="321" width="125" height="23" rx="5" fill="#082B4B" stroke="#168BDE"></rect>
+<text x="767" y="336">NLP / RAG</text>
+</g>
+
+<!-- Neural network animated -->
+<g fill="none" stroke="#168BDE" stroke-width="1.2" class="dash">
+<path d="M490 90L530 130L500 180L540 230L510 275"></path>
+<path d="M490 90L540 80L530 130L580 150L540 230"></path>
+<path d="M500 180L580 150"></path>
+</g>
+<g fill="#38BDF8" class="glow">
+<circle cx="490" cy="90" r="3" class="pulse"></circle>
+<circle cx="530" cy="130" r="3" class="pulse"></circle>
+<circle cx="500" cy="180" r="3" class="pulse"></circle>
+<circle cx="540" cy="230" r="3" class="pulse"></circle>
+<circle cx="540" cy="80" r="3" class="pulse"></circle>
+<circle cx="580" cy="150" r="3" class="pulse"></circle>
+</g>
+
+<!-- Scanning light -->
+<rect x="20" y="55" width="860" height="2" fill="#38BDF8" opacity=".6" class="scan"></rect>
+
+<!-- Footer -->
+<text x="38" y="375" font-size="9" letter-spacing="2" class="muted">ARTIFICIAL INTELLIGENCE // DATA SCIENCE</text>
+<text x="870" y="375" text-anchor="end" font-size="9" letter-spacing="2" class="blue">LEARN • EXPLORE • INNOVATE</text>
+
+</svg>
