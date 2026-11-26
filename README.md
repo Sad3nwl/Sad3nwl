@@ -11,7 +11,7 @@
 </div>
 ---
 <div align="center">
-  <img src="assets/sadeen_featured_projects_black.svg"
+  <img src="assets/sadeen_featured_projects_stack_black.svg"
        width="100%"
        alt="Sadeen's Featured Projects"/>
 </div>
