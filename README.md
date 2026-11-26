@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sadeen_about_animated.svg"
+  <img src="assets/sadeen_about_black_animated.svg"
        width="100%"
        alt="Sadeen Abdelalrahman - AI Profile"/>
 </div>
